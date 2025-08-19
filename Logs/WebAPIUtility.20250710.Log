@@ -1,0 +1,907 @@
+﻿2025-07-10 15:10:27,158 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:11:47,446 INFO  - get user id:chezhang domain information
+2025-07-10 15:12:16,765 INFO  - Property Name: msexchremoterecipienttype, Property Value: 4
+2025-07-10 15:12:16,765 INFO  - Property Name: logoncount, Property Value: 7898
+2025-07-10 15:12:16,765 INFO  - Property Name: msexcharchivewarnquota, Property Value: 94371840
+2025-07-10 15:12:16,765 INFO  - Property Name: objectguid, Property Value: System.Byte[]
+2025-07-10 15:12:16,765 INFO  - Property Name: cn, Property Value: Chenghao Zhang
+2025-07-10 15:12:16,765 INFO  - Property Name: accountexpires, Property Value: 133936992000000000
+2025-07-10 15:12:16,765 INFO  - Property Name: msexchuseraccountcontrol, Property Value: 0
+2025-07-10 15:12:16,767 INFO  - Property Name: usnchanged, Property Value: 1117920868
+2025-07-10 15:12:16,767 INFO  - Property Name: badpasswordtime, Property Value: 133920964440479779
+2025-07-10 15:12:16,767 INFO  - Property Name: mobile, Property Value: +86-18867152279
+2025-07-10 15:12:16,767 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:12:16,767 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:12:16,767 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:12:16,767 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:12:16,767 INFO  - Property Name: msexchumdtmfmap, Property Value: reversedPhone:9722517688168+
+2025-07-10 15:12:16,767 INFO  - Property Name: msexchumdtmfmap, Property Value: emailAddress:2436442694264
+2025-07-10 15:12:16,767 INFO  - Property Name: msexchumdtmfmap, Property Value: lastNameFirstName:9426424364426
+2025-07-10 15:12:16,767 INFO  - Property Name: msexchumdtmfmap, Property Value: firstNameLastName:2436442694264
+2025-07-10 15:12:16,767 INFO  - Property Name: dscorepropagationdata, Property Value: 7/10/2025 6:53:37
+2025-07-10 15:12:16,767 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:46
+2025-07-10 15:12:16,767 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:31
+2025-07-10 15:12:16,767 INFO  - Property Name: dscorepropagationdata, Property Value: 6/30/2025 7:32:01
+2025-07-10 15:12:16,767 INFO  - Property Name: dscorepropagationdata, Property Value: 1/1/1601 0:04:17
+2025-07-10 15:12:16,767 INFO  - Property Name: msexchrecipienttypedetails, Property Value: 2147483648
+2025-07-10 15:12:16,767 INFO  - Property Name: streetaddress, Property Value: Floor6/8, Building A2, Xixi Center, No.588 West Wenyi Road, Hangzhou, Zhejiang, China
+2025-07-10 15:12:16,767 INFO  - Property Name: lastlogon, Property Value: 133936684953001285
+2025-07-10 15:12:16,767 INFO  - Property Name: msexchpoliciesincluded, Property Value: c69e1a54-5598-44a1-93d2-0a1ed33d243a
+2025-07-10 15:12:16,767 INFO  - Property Name: msexchpoliciesincluded, Property Value: {26491cfc-9e50-4857-861b-0cb8df22b5d7}
+2025-07-10 15:12:16,770 INFO  - Property Name: msexchrecipientdisplaytype, Property Value: -1073741818
+2025-07-10 15:12:16,770 INFO  - Property Name: company, Property Value: MPSHZ
+2025-07-10 15:12:16,770 INFO  - Property Name: postalcode, Property Value: 310013
+2025-07-10 15:12:16,770 INFO  - Property Name: targetaddress, Property Value: SMTP:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:12:16,770 INFO  - Property Name: userprincipalname, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:12:16,770 INFO  - Property Name: instancetype, Property Value: 4
+2025-07-10 15:12:16,770 INFO  - Property Name: st, Property Value: Zhejiang
+2025-07-10 15:12:16,770 INFO  - Property Name: msexchwhenmailboxcreated, Property Value: 4/22/2022 3:35:16
+2025-07-10 15:12:16,770 INFO  - Property Name: physicaldeliveryofficename, Property Value: APAC-China-Hangzhou
+2025-07-10 15:12:16,770 INFO  - Property Name: msexchtextmessagingstate, Property Value: 302120705
+2025-07-10 15:12:16,770 INFO  - Property Name: msexchtextmessagingstate, Property Value: 16842751
+2025-07-10 15:12:16,770 INFO  - Property Name: msexchdumpsterwarningquota, Property Value: 20971520
+2025-07-10 15:12:16,770 INFO  - Property Name: showinaddressbook, Property Value: CN=MPS Global Address Book,CN=All Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:12:16,770 INFO  - Property Name: showinaddressbook, Property Value: CN=MPSCD Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:12:16,770 INFO  - Property Name: showinaddressbook, Property Value: CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:12:16,770 INFO  - Property Name: givenname, Property Value: Chenghao
+2025-07-10 15:12:16,770 INFO  - Property Name: ms-ds-consistencyguid, Property Value: System.Byte[]
+2025-07-10 15:12:16,770 INFO  - Property Name: objectsid, Property Value: System.Byte[]
+2025-07-10 15:12:16,770 INFO  - Property Name: samaccountname, Property Value: chezhang
+2025-07-10 15:12:16,770 INFO  - Property Name: employeeid, Property Value: MPSHZ0383
+2025-07-10 15:12:16,770 INFO  - Property Name: msexchhidefromaddresslists, Property Value: True
+2025-07-10 15:12:16,770 INFO  - Property Name: distinguishedname, Property Value: CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:16,770 INFO  - Property Name: memberof, Property Value: CN=CN-DisabledAccount-Logon-Introspection,OU=Security_Only,OU=User Groups,OU=Groups,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:16,771 INFO  - Property Name: msexchelcmailboxflags, Property Value: 2
+2025-07-10 15:12:16,771 INFO  - Property Name: objectcategory, Property Value: CN=Person,CN=Schema,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:12:16,771 INFO  - Property Name: legacyexchangedn, Property Value: /o=MPS/ou=External (FYDIBOHF25SPDLT)/cn=Recipients/cn=ae796e5277dc4dbfa9b51ab6d06ef47e
+2025-07-10 15:12:16,771 INFO  - Property Name: msexchmailboxguid, Property Value: System.Byte[]
+2025-07-10 15:12:16,771 INFO  - Property Name: msexchomaadminwirelessenable, Property Value: 12
+2025-07-10 15:12:16,771 INFO  - Property Name: mailnickname, Property Value: Chenghao.Zhang
+2025-07-10 15:12:16,771 INFO  - Property Name: lastlogoff, Property Value: 0
+2025-07-10 15:12:16,771 INFO  - Property Name: description, Property Value: MPS Hangzhou Intermediate AE
+2025-07-10 15:12:16,771 INFO  - Property Name: whencreated, Property Value: 4/22/2022 3:34:59
+2025-07-10 15:12:16,771 INFO  - Property Name: msexchdumpsterquota, Property Value: 31457280
+2025-07-10 15:12:16,771 INFO  - Property Name: lastlogontimestamp, Property Value: 133935657716327393
+2025-07-10 15:12:16,771 INFO  - Property Name: objectclass, Property Value: top
+2025-07-10 15:12:16,771 INFO  - Property Name: objectclass, Property Value: person
+2025-07-10 15:12:16,771 INFO  - Property Name: objectclass, Property Value: organizationalPerson
+2025-07-10 15:12:16,771 INFO  - Property Name: objectclass, Property Value: user
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.com
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=65b224f686bf448b856feab018c6d215-Chenghao Zh
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: X500:/o=MPS/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=6227c5c7b0fa4aa0815985d17f89496a-Chenghao Zhang
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mps-ic.com
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@monolithicpower.com
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.cn
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:12:16,771 INFO  - Property Name: proxyaddresses, Property Value: SMTP:Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:12:16,771 INFO  - Property Name: samaccounttype, Property Value: 805306368
+2025-07-10 15:12:16,771 INFO  - Property Name: telephonenumber, Property Value: +86-0571-89818588;x8755
+2025-07-10 15:12:16,771 INFO  - Property Name: countrycode, Property Value: 156
+2025-07-10 15:12:16,771 INFO  - Property Name: useraccountcontrol, Property Value: 514
+2025-07-10 15:12:16,771 INFO  - Property Name: pwdlastset, Property Value: 133965253615726665
+2025-07-10 15:12:16,771 INFO  - Property Name: co, Property Value: 中国
+2025-07-10 15:12:16,771 INFO  - Property Name: name, Property Value: Chenghao Zhang
+2025-07-10 15:12:16,771 INFO  - Property Name: lockouttime, Property Value: 0
+2025-07-10 15:12:16,771 INFO  - Property Name: whenchanged, Property Value: 7/10/2025 6:53:37
+2025-07-10 15:12:16,771 INFO  - Property Name: protocolsettings, Property Value: MAPI§1§§§§§§§§§
+2025-07-10 15:12:16,774 INFO  - Property Name: protocolsettings, Property Value: IMAP4§0§§§§§§§§§§§§
+2025-07-10 15:12:16,774 INFO  - Property Name: protocolsettings, Property Value: POP3§0§§§§§§§§§§§§
+2025-07-10 15:12:16,774 INFO  - Property Name: protocolsettings, Property Value: OWA§0
+2025-07-10 15:12:16,774 INFO  - Property Name: l, Property Value: Hangzhou
+2025-07-10 15:12:16,774 INFO  - Property Name: badpwdcount, Property Value: 0
+2025-07-10 15:12:16,774 INFO  - Property Name: department, Property Value: 09-200 AE
+2025-07-10 15:12:16,774 INFO  - Property Name: displayname, Property Value: Chenghao Zhang
+2025-07-10 15:12:16,774 INFO  - Property Name: msds-keycredentiallink, Property Value: B:854:00020000200001A9C0C9B8929B936E2D6A804276DE5E1D206599B1CA21A4E79C2484F3547EA30F200002BA37C751C682FE2E65D6A7B6CBDF99E0DC519D028218FE099E921F4ECEA5743B1B0103525341310008000003000000000100000000000000000000010001C68740E14A372F90F92E1E949FD72E3DE73510B3BF2FEE55495B98743990C716FB46C2A00B48A0F3B3229C6B4FB8FC5DE465C8CA762D6D7CCDEE1461B3E9BFC8D44467A9B88957D7DB41922702C262668D50747DF65628AF760A133C8EED8EB955F2FA7ACC7D6679680C33CB0FEC66A57F128FEF8270FD0D283C91F46819AE14F3E0154C6B8F49E656DA862B7C8E8EE1C9DA359654CB6A7AE7996DD96B6628381CF33413A23B989D020563528AB1BF23BE37AE847FB75557C66448CE7FD6EDD29BF427F35CAA0E385B9694E8D17EB442ECA486ACC71BF4A89D6E3BB66C729E78BF535E264A57C51B0C994ABB024F8E558792F33F06D28FBC2EF8CE57085BC64F0100040101000501100006B300DA21A84A1A429302B18A5B5843A40F000701000000000200000000000000000008000800000000000000000800094AA953ACAD29DA48:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:16,774 INFO  - Property Name: msds-keycredentiallink, Property Value: B:790:00020000200001211CA112864014BADE9CC20214113BD954710B4F3036BC1867529F647154F76A2000024D37BF71C1CC5263BD2964B2BF756E20FBADE677A554FAF8AAB502359E54EB731B0103525341310008000003000000000100000000000000000000010001A6B0840BC6D33A02E307A0C4515C63A7197C1D61D5859E6BA87C3D533220FC76EDED2101C66C3E9436E0CEBE0AB8D57C2A30B2A6FD01C42E5960C511AEB89C2D67EA3902247021780B41BAB615A3F71E5F7EA4D2AB1391A077DB9EF4F173967E9D3ED5B3A5356EF051FF792651F4A606DEE1937485F0D077A7336AF1869E03FD43B9ED684670441E5EAC82B861C1CFE5467B33A4C0E1BC01E70E09AFB557C6D384EC381D5ED1F253B4A6DF102672BEEA9F8145F891ABACAD3ABFE5DD888E55746D498476D24B79035B23B53EFB30251078120EAA95B55D689963B9B77E0B30F70C33DD080212E26751E682D7998F619F82F67C7E97BA905BD82395279EC98567010004010100050002000701000800082DFD5C2817C2DA010800092DFD5C2817C2DA01:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:16,774 INFO  - Property Name: adspath, Property Value: LDAP://CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:16,774 INFO  - Property Name: c, Property Value: CN
+2025-07-10 15:12:16,774 INFO  - Property Name: textencodedoraddress, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:12:16,774 INFO  - Property Name: msexcharchivequota, Property Value: 104857600
+2025-07-10 15:12:16,774 INFO  - Property Name: msexchversion, Property Value: 88218628259840
+2025-07-10 15:12:16,774 INFO  - Property Name: mail, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:12:16,774 INFO  - Property Name: title, Property Value: Intermediate AE
+2025-07-10 15:12:16,774 INFO  - Property Name: thumbnailphoto, Property Value: System.Byte[]
+2025-07-10 15:12:16,774 INFO  - Property Name: primarygroupid, Property Value: 513
+2025-07-10 15:12:16,774 INFO  - Property Name: usncreated, Property Value: 441774199
+2025-07-10 15:12:16,775 INFO  - Property Name: codepage, Property Value: 0
+2025-07-10 15:12:16,775 INFO  - Property Name: sn, Property Value: Zhang
+2025-07-10 15:12:16,775 INFO  - Property Name: Enabled, Property Value: False
+2025-07-10 15:12:19,895 INFO  - get user id:chezhang domain information
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchremoterecipienttype, Property Value: 4
+2025-07-10 15:12:49,955 INFO  - Property Name: logoncount, Property Value: 7898
+2025-07-10 15:12:49,955 INFO  - Property Name: msexcharchivewarnquota, Property Value: 94371840
+2025-07-10 15:12:49,955 INFO  - Property Name: objectguid, Property Value: System.Byte[]
+2025-07-10 15:12:49,955 INFO  - Property Name: cn, Property Value: Chenghao Zhang
+2025-07-10 15:12:49,955 INFO  - Property Name: accountexpires, Property Value: 133936992000000000
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchuseraccountcontrol, Property Value: 0
+2025-07-10 15:12:49,955 INFO  - Property Name: usnchanged, Property Value: 1117920868
+2025-07-10 15:12:49,955 INFO  - Property Name: badpasswordtime, Property Value: 133920964440479779
+2025-07-10 15:12:49,955 INFO  - Property Name: mobile, Property Value: +86-18867152279
+2025-07-10 15:12:49,955 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:12:49,955 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:12:49,955 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:12:49,955 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchumdtmfmap, Property Value: reversedPhone:9722517688168+
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchumdtmfmap, Property Value: emailAddress:2436442694264
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchumdtmfmap, Property Value: lastNameFirstName:9426424364426
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchumdtmfmap, Property Value: firstNameLastName:2436442694264
+2025-07-10 15:12:49,955 INFO  - Property Name: dscorepropagationdata, Property Value: 7/10/2025 6:53:37
+2025-07-10 15:12:49,955 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:46
+2025-07-10 15:12:49,955 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:31
+2025-07-10 15:12:49,955 INFO  - Property Name: dscorepropagationdata, Property Value: 6/30/2025 7:32:01
+2025-07-10 15:12:49,955 INFO  - Property Name: dscorepropagationdata, Property Value: 1/1/1601 0:04:17
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchrecipienttypedetails, Property Value: 2147483648
+2025-07-10 15:12:49,955 INFO  - Property Name: streetaddress, Property Value: Floor6/8, Building A2, Xixi Center, No.588 West Wenyi Road, Hangzhou, Zhejiang, China
+2025-07-10 15:12:49,955 INFO  - Property Name: lastlogon, Property Value: 133936684953001285
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchpoliciesincluded, Property Value: c69e1a54-5598-44a1-93d2-0a1ed33d243a
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchpoliciesincluded, Property Value: {26491cfc-9e50-4857-861b-0cb8df22b5d7}
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchrecipientdisplaytype, Property Value: -1073741818
+2025-07-10 15:12:49,955 INFO  - Property Name: company, Property Value: MPSHZ
+2025-07-10 15:12:49,955 INFO  - Property Name: postalcode, Property Value: 310013
+2025-07-10 15:12:49,955 INFO  - Property Name: targetaddress, Property Value: SMTP:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:12:49,955 INFO  - Property Name: userprincipalname, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:12:49,955 INFO  - Property Name: instancetype, Property Value: 4
+2025-07-10 15:12:49,955 INFO  - Property Name: st, Property Value: Zhejiang
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchwhenmailboxcreated, Property Value: 4/22/2022 3:35:16
+2025-07-10 15:12:49,955 INFO  - Property Name: physicaldeliveryofficename, Property Value: APAC-China-Hangzhou
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchtextmessagingstate, Property Value: 302120705
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchtextmessagingstate, Property Value: 16842751
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchdumpsterwarningquota, Property Value: 20971520
+2025-07-10 15:12:49,955 INFO  - Property Name: showinaddressbook, Property Value: CN=MPS Global Address Book,CN=All Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:12:49,955 INFO  - Property Name: showinaddressbook, Property Value: CN=MPSCD Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:12:49,955 INFO  - Property Name: showinaddressbook, Property Value: CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:12:49,955 INFO  - Property Name: givenname, Property Value: Chenghao
+2025-07-10 15:12:49,955 INFO  - Property Name: ms-ds-consistencyguid, Property Value: System.Byte[]
+2025-07-10 15:12:49,955 INFO  - Property Name: objectsid, Property Value: System.Byte[]
+2025-07-10 15:12:49,955 INFO  - Property Name: samaccountname, Property Value: chezhang
+2025-07-10 15:12:49,955 INFO  - Property Name: employeeid, Property Value: MPSHZ0383
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchhidefromaddresslists, Property Value: True
+2025-07-10 15:12:49,955 INFO  - Property Name: distinguishedname, Property Value: CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:49,955 INFO  - Property Name: memberof, Property Value: CN=CN-DisabledAccount-Logon-Introspection,OU=Security_Only,OU=User Groups,OU=Groups,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchelcmailboxflags, Property Value: 2
+2025-07-10 15:12:49,955 INFO  - Property Name: objectcategory, Property Value: CN=Person,CN=Schema,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:12:49,955 INFO  - Property Name: legacyexchangedn, Property Value: /o=MPS/ou=External (FYDIBOHF25SPDLT)/cn=Recipients/cn=ae796e5277dc4dbfa9b51ab6d06ef47e
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchmailboxguid, Property Value: System.Byte[]
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchomaadminwirelessenable, Property Value: 12
+2025-07-10 15:12:49,955 INFO  - Property Name: mailnickname, Property Value: Chenghao.Zhang
+2025-07-10 15:12:49,955 INFO  - Property Name: lastlogoff, Property Value: 0
+2025-07-10 15:12:49,955 INFO  - Property Name: description, Property Value: MPS Hangzhou Intermediate AE
+2025-07-10 15:12:49,955 INFO  - Property Name: whencreated, Property Value: 4/22/2022 3:34:59
+2025-07-10 15:12:49,955 INFO  - Property Name: msexchdumpsterquota, Property Value: 31457280
+2025-07-10 15:12:49,955 INFO  - Property Name: lastlogontimestamp, Property Value: 133935657716327393
+2025-07-10 15:12:49,955 INFO  - Property Name: objectclass, Property Value: top
+2025-07-10 15:12:49,955 INFO  - Property Name: objectclass, Property Value: person
+2025-07-10 15:12:49,955 INFO  - Property Name: objectclass, Property Value: organizationalPerson
+2025-07-10 15:12:49,955 INFO  - Property Name: objectclass, Property Value: user
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.com
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=65b224f686bf448b856feab018c6d215-Chenghao Zh
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: X500:/o=MPS/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=6227c5c7b0fa4aa0815985d17f89496a-Chenghao Zhang
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mps-ic.com
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@monolithicpower.com
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.cn
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:12:49,955 INFO  - Property Name: proxyaddresses, Property Value: SMTP:Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:12:49,955 INFO  - Property Name: samaccounttype, Property Value: 805306368
+2025-07-10 15:12:49,955 INFO  - Property Name: telephonenumber, Property Value: +86-0571-89818588;x8755
+2025-07-10 15:12:49,955 INFO  - Property Name: countrycode, Property Value: 156
+2025-07-10 15:12:49,956 INFO  - Property Name: useraccountcontrol, Property Value: 514
+2025-07-10 15:12:49,956 INFO  - Property Name: pwdlastset, Property Value: 133965253615726665
+2025-07-10 15:12:49,956 INFO  - Property Name: co, Property Value: 中国
+2025-07-10 15:12:49,956 INFO  - Property Name: name, Property Value: Chenghao Zhang
+2025-07-10 15:12:49,956 INFO  - Property Name: lockouttime, Property Value: 0
+2025-07-10 15:12:49,956 INFO  - Property Name: whenchanged, Property Value: 7/10/2025 6:53:37
+2025-07-10 15:12:49,956 INFO  - Property Name: protocolsettings, Property Value: MAPI§1§§§§§§§§§
+2025-07-10 15:12:49,956 INFO  - Property Name: protocolsettings, Property Value: IMAP4§0§§§§§§§§§§§§
+2025-07-10 15:12:49,956 INFO  - Property Name: protocolsettings, Property Value: POP3§0§§§§§§§§§§§§
+2025-07-10 15:12:49,956 INFO  - Property Name: protocolsettings, Property Value: OWA§0
+2025-07-10 15:12:49,956 INFO  - Property Name: l, Property Value: Hangzhou
+2025-07-10 15:12:49,956 INFO  - Property Name: badpwdcount, Property Value: 0
+2025-07-10 15:12:49,956 INFO  - Property Name: department, Property Value: 09-200 AE
+2025-07-10 15:12:49,956 INFO  - Property Name: displayname, Property Value: Chenghao Zhang
+2025-07-10 15:12:49,956 INFO  - Property Name: msds-keycredentiallink, Property Value: B:854:00020000200001A9C0C9B8929B936E2D6A804276DE5E1D206599B1CA21A4E79C2484F3547EA30F200002BA37C751C682FE2E65D6A7B6CBDF99E0DC519D028218FE099E921F4ECEA5743B1B0103525341310008000003000000000100000000000000000000010001C68740E14A372F90F92E1E949FD72E3DE73510B3BF2FEE55495B98743990C716FB46C2A00B48A0F3B3229C6B4FB8FC5DE465C8CA762D6D7CCDEE1461B3E9BFC8D44467A9B88957D7DB41922702C262668D50747DF65628AF760A133C8EED8EB955F2FA7ACC7D6679680C33CB0FEC66A57F128FEF8270FD0D283C91F46819AE14F3E0154C6B8F49E656DA862B7C8E8EE1C9DA359654CB6A7AE7996DD96B6628381CF33413A23B989D020563528AB1BF23BE37AE847FB75557C66448CE7FD6EDD29BF427F35CAA0E385B9694E8D17EB442ECA486ACC71BF4A89D6E3BB66C729E78BF535E264A57C51B0C994ABB024F8E558792F33F06D28FBC2EF8CE57085BC64F0100040101000501100006B300DA21A84A1A429302B18A5B5843A40F000701000000000200000000000000000008000800000000000000000800094AA953ACAD29DA48:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:49,956 INFO  - Property Name: msds-keycredentiallink, Property Value: B:790:00020000200001211CA112864014BADE9CC20214113BD954710B4F3036BC1867529F647154F76A2000024D37BF71C1CC5263BD2964B2BF756E20FBADE677A554FAF8AAB502359E54EB731B0103525341310008000003000000000100000000000000000000010001A6B0840BC6D33A02E307A0C4515C63A7197C1D61D5859E6BA87C3D533220FC76EDED2101C66C3E9436E0CEBE0AB8D57C2A30B2A6FD01C42E5960C511AEB89C2D67EA3902247021780B41BAB615A3F71E5F7EA4D2AB1391A077DB9EF4F173967E9D3ED5B3A5356EF051FF792651F4A606DEE1937485F0D077A7336AF1869E03FD43B9ED684670441E5EAC82B861C1CFE5467B33A4C0E1BC01E70E09AFB557C6D384EC381D5ED1F253B4A6DF102672BEEA9F8145F891ABACAD3ABFE5DD888E55746D498476D24B79035B23B53EFB30251078120EAA95B55D689963B9B77E0B30F70C33DD080212E26751E682D7998F619F82F67C7E97BA905BD82395279EC98567010004010100050002000701000800082DFD5C2817C2DA010800092DFD5C2817C2DA01:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:49,956 INFO  - Property Name: adspath, Property Value: LDAP://CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:12:49,956 INFO  - Property Name: c, Property Value: CN
+2025-07-10 15:12:49,956 INFO  - Property Name: textencodedoraddress, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:12:49,956 INFO  - Property Name: msexcharchivequota, Property Value: 104857600
+2025-07-10 15:12:49,956 INFO  - Property Name: msexchversion, Property Value: 88218628259840
+2025-07-10 15:12:49,956 INFO  - Property Name: mail, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:12:49,956 INFO  - Property Name: title, Property Value: Intermediate AE
+2025-07-10 15:12:49,956 INFO  - Property Name: thumbnailphoto, Property Value: System.Byte[]
+2025-07-10 15:12:49,956 INFO  - Property Name: primarygroupid, Property Value: 513
+2025-07-10 15:12:49,956 INFO  - Property Name: usncreated, Property Value: 441774199
+2025-07-10 15:12:49,956 INFO  - Property Name: codepage, Property Value: 0
+2025-07-10 15:12:49,956 INFO  - Property Name: sn, Property Value: Zhang
+2025-07-10 15:12:49,956 INFO  - Property Name: Enabled, Property Value: False
+2025-07-10 15:12:55,099 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:14:02,001 INFO  - get user id:chezhang domain information
+2025-07-10 15:14:56,573 INFO  - Property Name: msexchremoterecipienttype, Property Value: 4
+2025-07-10 15:14:56,573 INFO  - Property Name: logoncount, Property Value: 7898
+2025-07-10 15:14:56,573 INFO  - Property Name: msexcharchivewarnquota, Property Value: 94371840
+2025-07-10 15:14:56,573 INFO  - Property Name: objectguid, Property Value: System.Byte[]
+2025-07-10 15:14:56,573 INFO  - Property Name: cn, Property Value: Chenghao Zhang
+2025-07-10 15:14:56,573 INFO  - Property Name: accountexpires, Property Value: 133936992000000000
+2025-07-10 15:14:56,573 INFO  - Property Name: msexchuseraccountcontrol, Property Value: 0
+2025-07-10 15:14:56,573 INFO  - Property Name: usnchanged, Property Value: 1117920868
+2025-07-10 15:14:56,573 INFO  - Property Name: badpasswordtime, Property Value: 133920964440479779
+2025-07-10 15:14:56,574 INFO  - Property Name: mobile, Property Value: +86-18867152279
+2025-07-10 15:14:56,574 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:14:56,574 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:14:56,574 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:14:56,574 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchumdtmfmap, Property Value: reversedPhone:9722517688168+
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchumdtmfmap, Property Value: emailAddress:2436442694264
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchumdtmfmap, Property Value: lastNameFirstName:9426424364426
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchumdtmfmap, Property Value: firstNameLastName:2436442694264
+2025-07-10 15:14:56,574 INFO  - Property Name: dscorepropagationdata, Property Value: 7/10/2025 6:53:37
+2025-07-10 15:14:56,574 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:46
+2025-07-10 15:14:56,574 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:31
+2025-07-10 15:14:56,574 INFO  - Property Name: dscorepropagationdata, Property Value: 6/30/2025 7:32:01
+2025-07-10 15:14:56,574 INFO  - Property Name: dscorepropagationdata, Property Value: 1/1/1601 0:04:17
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchrecipienttypedetails, Property Value: 2147483648
+2025-07-10 15:14:56,574 INFO  - Property Name: streetaddress, Property Value: Floor6/8, Building A2, Xixi Center, No.588 West Wenyi Road, Hangzhou, Zhejiang, China
+2025-07-10 15:14:56,574 INFO  - Property Name: lastlogon, Property Value: 133936684953001285
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchpoliciesincluded, Property Value: c69e1a54-5598-44a1-93d2-0a1ed33d243a
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchpoliciesincluded, Property Value: {26491cfc-9e50-4857-861b-0cb8df22b5d7}
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchrecipientdisplaytype, Property Value: -1073741818
+2025-07-10 15:14:56,574 INFO  - Property Name: company, Property Value: MPSHZ
+2025-07-10 15:14:56,574 INFO  - Property Name: postalcode, Property Value: 310013
+2025-07-10 15:14:56,574 INFO  - Property Name: targetaddress, Property Value: SMTP:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:14:56,574 INFO  - Property Name: userprincipalname, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:14:56,574 INFO  - Property Name: instancetype, Property Value: 4
+2025-07-10 15:14:56,574 INFO  - Property Name: st, Property Value: Zhejiang
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchwhenmailboxcreated, Property Value: 4/22/2022 3:35:16
+2025-07-10 15:14:56,574 INFO  - Property Name: physicaldeliveryofficename, Property Value: APAC-China-Hangzhou
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchtextmessagingstate, Property Value: 302120705
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchtextmessagingstate, Property Value: 16842751
+2025-07-10 15:14:56,574 INFO  - Property Name: msexchdumpsterwarningquota, Property Value: 20971520
+2025-07-10 15:14:56,574 INFO  - Property Name: showinaddressbook, Property Value: CN=MPS Global Address Book,CN=All Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:14:56,574 INFO  - Property Name: showinaddressbook, Property Value: CN=MPSCD Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:14:56,574 INFO  - Property Name: showinaddressbook, Property Value: CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:14:56,577 INFO  - Property Name: givenname, Property Value: Chenghao
+2025-07-10 15:14:56,577 INFO  - Property Name: ms-ds-consistencyguid, Property Value: System.Byte[]
+2025-07-10 15:14:56,577 INFO  - Property Name: objectsid, Property Value: System.Byte[]
+2025-07-10 15:14:56,577 INFO  - Property Name: samaccountname, Property Value: chezhang
+2025-07-10 15:14:56,577 INFO  - Property Name: employeeid, Property Value: MPSHZ0383
+2025-07-10 15:14:56,577 INFO  - Property Name: msexchhidefromaddresslists, Property Value: True
+2025-07-10 15:14:56,577 INFO  - Property Name: distinguishedname, Property Value: CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:14:56,577 INFO  - Property Name: memberof, Property Value: CN=CN-DisabledAccount-Logon-Introspection,OU=Security_Only,OU=User Groups,OU=Groups,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:14:56,577 INFO  - Property Name: msexchelcmailboxflags, Property Value: 2
+2025-07-10 15:14:56,577 INFO  - Property Name: objectcategory, Property Value: CN=Person,CN=Schema,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:14:56,577 INFO  - Property Name: legacyexchangedn, Property Value: /o=MPS/ou=External (FYDIBOHF25SPDLT)/cn=Recipients/cn=ae796e5277dc4dbfa9b51ab6d06ef47e
+2025-07-10 15:14:56,577 INFO  - Property Name: msexchmailboxguid, Property Value: System.Byte[]
+2025-07-10 15:14:56,577 INFO  - Property Name: msexchomaadminwirelessenable, Property Value: 12
+2025-07-10 15:14:56,577 INFO  - Property Name: mailnickname, Property Value: Chenghao.Zhang
+2025-07-10 15:14:56,577 INFO  - Property Name: lastlogoff, Property Value: 0
+2025-07-10 15:14:56,577 INFO  - Property Name: description, Property Value: MPS Hangzhou Intermediate AE
+2025-07-10 15:14:56,577 INFO  - Property Name: whencreated, Property Value: 4/22/2022 3:34:59
+2025-07-10 15:14:56,577 INFO  - Property Name: msexchdumpsterquota, Property Value: 31457280
+2025-07-10 15:14:56,577 INFO  - Property Name: lastlogontimestamp, Property Value: 133935657716327393
+2025-07-10 15:14:56,577 INFO  - Property Name: objectclass, Property Value: top
+2025-07-10 15:14:56,577 INFO  - Property Name: objectclass, Property Value: person
+2025-07-10 15:14:56,577 INFO  - Property Name: objectclass, Property Value: organizationalPerson
+2025-07-10 15:14:56,577 INFO  - Property Name: objectclass, Property Value: user
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.com
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=65b224f686bf448b856feab018c6d215-Chenghao Zh
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: X500:/o=MPS/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=6227c5c7b0fa4aa0815985d17f89496a-Chenghao Zhang
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mps-ic.com
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@monolithicpower.com
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.cn
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:14:56,577 INFO  - Property Name: proxyaddresses, Property Value: SMTP:Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:14:56,577 INFO  - Property Name: samaccounttype, Property Value: 805306368
+2025-07-10 15:14:56,577 INFO  - Property Name: telephonenumber, Property Value: +86-0571-89818588;x8755
+2025-07-10 15:14:56,577 INFO  - Property Name: countrycode, Property Value: 156
+2025-07-10 15:14:56,577 INFO  - Property Name: useraccountcontrol, Property Value: 514
+2025-07-10 15:14:56,577 INFO  - Property Name: pwdlastset, Property Value: 133965253615726665
+2025-07-10 15:14:56,577 INFO  - Property Name: co, Property Value: 中国
+2025-07-10 15:14:56,577 INFO  - Property Name: name, Property Value: Chenghao Zhang
+2025-07-10 15:14:56,577 INFO  - Property Name: lockouttime, Property Value: 0
+2025-07-10 15:14:56,577 INFO  - Property Name: whenchanged, Property Value: 7/10/2025 6:53:37
+2025-07-10 15:14:56,577 INFO  - Property Name: protocolsettings, Property Value: MAPI§1§§§§§§§§§
+2025-07-10 15:14:56,577 INFO  - Property Name: protocolsettings, Property Value: IMAP4§0§§§§§§§§§§§§
+2025-07-10 15:14:56,577 INFO  - Property Name: protocolsettings, Property Value: POP3§0§§§§§§§§§§§§
+2025-07-10 15:14:56,577 INFO  - Property Name: protocolsettings, Property Value: OWA§0
+2025-07-10 15:14:56,577 INFO  - Property Name: l, Property Value: Hangzhou
+2025-07-10 15:14:56,577 INFO  - Property Name: badpwdcount, Property Value: 0
+2025-07-10 15:14:56,577 INFO  - Property Name: department, Property Value: 09-200 AE
+2025-07-10 15:14:56,577 INFO  - Property Name: displayname, Property Value: Chenghao Zhang
+2025-07-10 15:14:56,577 INFO  - Property Name: msds-keycredentiallink, Property Value: B:854:00020000200001A9C0C9B8929B936E2D6A804276DE5E1D206599B1CA21A4E79C2484F3547EA30F200002BA37C751C682FE2E65D6A7B6CBDF99E0DC519D028218FE099E921F4ECEA5743B1B0103525341310008000003000000000100000000000000000000010001C68740E14A372F90F92E1E949FD72E3DE73510B3BF2FEE55495B98743990C716FB46C2A00B48A0F3B3229C6B4FB8FC5DE465C8CA762D6D7CCDEE1461B3E9BFC8D44467A9B88957D7DB41922702C262668D50747DF65628AF760A133C8EED8EB955F2FA7ACC7D6679680C33CB0FEC66A57F128FEF8270FD0D283C91F46819AE14F3E0154C6B8F49E656DA862B7C8E8EE1C9DA359654CB6A7AE7996DD96B6628381CF33413A23B989D020563528AB1BF23BE37AE847FB75557C66448CE7FD6EDD29BF427F35CAA0E385B9694E8D17EB442ECA486ACC71BF4A89D6E3BB66C729E78BF535E264A57C51B0C994ABB024F8E558792F33F06D28FBC2EF8CE57085BC64F0100040101000501100006B300DA21A84A1A429302B18A5B5843A40F000701000000000200000000000000000008000800000000000000000800094AA953ACAD29DA48:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:14:56,577 INFO  - Property Name: msds-keycredentiallink, Property Value: B:790:00020000200001211CA112864014BADE9CC20214113BD954710B4F3036BC1867529F647154F76A2000024D37BF71C1CC5263BD2964B2BF756E20FBADE677A554FAF8AAB502359E54EB731B0103525341310008000003000000000100000000000000000000010001A6B0840BC6D33A02E307A0C4515C63A7197C1D61D5859E6BA87C3D533220FC76EDED2101C66C3E9436E0CEBE0AB8D57C2A30B2A6FD01C42E5960C511AEB89C2D67EA3902247021780B41BAB615A3F71E5F7EA4D2AB1391A077DB9EF4F173967E9D3ED5B3A5356EF051FF792651F4A606DEE1937485F0D077A7336AF1869E03FD43B9ED684670441E5EAC82B861C1CFE5467B33A4C0E1BC01E70E09AFB557C6D384EC381D5ED1F253B4A6DF102672BEEA9F8145F891ABACAD3ABFE5DD888E55746D498476D24B79035B23B53EFB30251078120EAA95B55D689963B9B77E0B30F70C33DD080212E26751E682D7998F619F82F67C7E97BA905BD82395279EC98567010004010100050002000701000800082DFD5C2817C2DA010800092DFD5C2817C2DA01:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:14:56,577 INFO  - Property Name: adspath, Property Value: LDAP://CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:14:56,577 INFO  - Property Name: c, Property Value: CN
+2025-07-10 15:14:56,577 INFO  - Property Name: textencodedoraddress, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:14:56,577 INFO  - Property Name: msexcharchivequota, Property Value: 104857600
+2025-07-10 15:14:56,577 INFO  - Property Name: msexchversion, Property Value: 88218628259840
+2025-07-10 15:14:56,577 INFO  - Property Name: mail, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:14:56,577 INFO  - Property Name: title, Property Value: Intermediate AE
+2025-07-10 15:14:56,577 INFO  - Property Name: thumbnailphoto, Property Value: System.Byte[]
+2025-07-10 15:14:56,577 INFO  - Property Name: primarygroupid, Property Value: 513
+2025-07-10 15:14:56,577 INFO  - Property Name: usncreated, Property Value: 441774199
+2025-07-10 15:14:56,577 INFO  - Property Name: codepage, Property Value: 0
+2025-07-10 15:14:56,577 INFO  - Property Name: sn, Property Value: Zhang
+2025-07-10 15:14:56,577 INFO  - Property Name: Enabled, Property Value: False
+2025-07-10 15:16:15,432 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:16:53,729 INFO  - get user id:chezhang domain information
+2025-07-10 15:20:32,989 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:20:33,268 INFO  - Raw userAccountControl: 512 (binary: 1000000000)
+2025-07-10 15:20:39,081 INFO  - get user id:chezhang domain information
+2025-07-10 15:20:40,381 INFO  - Raw userAccountControl: 514 (binary: 1000000010)
+2025-07-10 15:20:40,382 INFO  - Property Name: msexchremoterecipienttype, Property Value: 4
+2025-07-10 15:20:40,382 INFO  - Property Name: logoncount, Property Value: 7898
+2025-07-10 15:20:40,382 INFO  - Property Name: msexcharchivewarnquota, Property Value: 94371840
+2025-07-10 15:20:40,382 INFO  - Property Name: objectguid, Property Value: System.Byte[]
+2025-07-10 15:20:40,382 INFO  - Property Name: cn, Property Value: Chenghao Zhang
+2025-07-10 15:20:40,382 INFO  - Property Name: accountexpires, Property Value: 133936992000000000
+2025-07-10 15:20:40,382 INFO  - Property Name: msexchuseraccountcontrol, Property Value: 0
+2025-07-10 15:20:40,382 INFO  - Property Name: usnchanged, Property Value: 1117920868
+2025-07-10 15:20:40,382 INFO  - Property Name: badpasswordtime, Property Value: 133920964440479779
+2025-07-10 15:20:40,382 INFO  - Property Name: mobile, Property Value: +86-18867152279
+2025-07-10 15:20:40,382 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:20:40,382 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:20:40,382 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:20:40,383 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:20:40,383 INFO  - Property Name: msexchumdtmfmap, Property Value: reversedPhone:9722517688168+
+2025-07-10 15:20:40,383 INFO  - Property Name: msexchumdtmfmap, Property Value: emailAddress:2436442694264
+2025-07-10 15:20:40,383 INFO  - Property Name: msexchumdtmfmap, Property Value: lastNameFirstName:9426424364426
+2025-07-10 15:20:40,383 INFO  - Property Name: msexchumdtmfmap, Property Value: firstNameLastName:2436442694264
+2025-07-10 15:20:40,383 INFO  - Property Name: dscorepropagationdata, Property Value: 7/10/2025 6:53:37
+2025-07-10 15:20:40,383 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:46
+2025-07-10 15:20:40,383 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:31
+2025-07-10 15:20:40,384 INFO  - Property Name: dscorepropagationdata, Property Value: 6/30/2025 7:32:01
+2025-07-10 15:20:40,384 INFO  - Property Name: dscorepropagationdata, Property Value: 1/1/1601 0:04:17
+2025-07-10 15:20:40,384 INFO  - Property Name: msexchrecipienttypedetails, Property Value: 2147483648
+2025-07-10 15:20:40,384 INFO  - Property Name: streetaddress, Property Value: Floor6/8, Building A2, Xixi Center, No.588 West Wenyi Road, Hangzhou, Zhejiang, China
+2025-07-10 15:20:40,385 INFO  - Property Name: lastlogon, Property Value: 133936684953001285
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchpoliciesincluded, Property Value: c69e1a54-5598-44a1-93d2-0a1ed33d243a
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchpoliciesincluded, Property Value: {26491cfc-9e50-4857-861b-0cb8df22b5d7}
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchrecipientdisplaytype, Property Value: -1073741818
+2025-07-10 15:20:40,385 INFO  - Property Name: company, Property Value: MPSHZ
+2025-07-10 15:20:40,385 INFO  - Property Name: postalcode, Property Value: 310013
+2025-07-10 15:20:40,385 INFO  - Property Name: targetaddress, Property Value: SMTP:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:20:40,385 INFO  - Property Name: userprincipalname, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:20:40,385 INFO  - Property Name: instancetype, Property Value: 4
+2025-07-10 15:20:40,385 INFO  - Property Name: st, Property Value: Zhejiang
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchwhenmailboxcreated, Property Value: 4/22/2022 3:35:16
+2025-07-10 15:20:40,385 INFO  - Property Name: physicaldeliveryofficename, Property Value: APAC-China-Hangzhou
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchtextmessagingstate, Property Value: 302120705
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchtextmessagingstate, Property Value: 16842751
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchdumpsterwarningquota, Property Value: 20971520
+2025-07-10 15:20:40,385 INFO  - Property Name: showinaddressbook, Property Value: CN=MPS Global Address Book,CN=All Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:20:40,385 INFO  - Property Name: showinaddressbook, Property Value: CN=MPSCD Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:20:40,385 INFO  - Property Name: showinaddressbook, Property Value: CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:20:40,385 INFO  - Property Name: givenname, Property Value: Chenghao
+2025-07-10 15:20:40,385 INFO  - Property Name: ms-ds-consistencyguid, Property Value: System.Byte[]
+2025-07-10 15:20:40,385 INFO  - Property Name: objectsid, Property Value: System.Byte[]
+2025-07-10 15:20:40,385 INFO  - Property Name: samaccountname, Property Value: chezhang
+2025-07-10 15:20:40,385 INFO  - Property Name: employeeid, Property Value: MPSHZ0383
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchhidefromaddresslists, Property Value: True
+2025-07-10 15:20:40,385 INFO  - Property Name: distinguishedname, Property Value: CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:20:40,385 INFO  - Property Name: memberof, Property Value: CN=CN-DisabledAccount-Logon-Introspection,OU=Security_Only,OU=User Groups,OU=Groups,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchelcmailboxflags, Property Value: 2
+2025-07-10 15:20:40,385 INFO  - Property Name: objectcategory, Property Value: CN=Person,CN=Schema,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:20:40,385 INFO  - Property Name: legacyexchangedn, Property Value: /o=MPS/ou=External (FYDIBOHF25SPDLT)/cn=Recipients/cn=ae796e5277dc4dbfa9b51ab6d06ef47e
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchmailboxguid, Property Value: System.Byte[]
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchomaadminwirelessenable, Property Value: 12
+2025-07-10 15:20:40,385 INFO  - Property Name: mailnickname, Property Value: Chenghao.Zhang
+2025-07-10 15:20:40,385 INFO  - Property Name: lastlogoff, Property Value: 0
+2025-07-10 15:20:40,385 INFO  - Property Name: description, Property Value: MPS Hangzhou Intermediate AE
+2025-07-10 15:20:40,385 INFO  - Property Name: whencreated, Property Value: 4/22/2022 3:34:59
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchdumpsterquota, Property Value: 31457280
+2025-07-10 15:20:40,385 INFO  - Property Name: lastlogontimestamp, Property Value: 133935657716327393
+2025-07-10 15:20:40,385 INFO  - Property Name: objectclass, Property Value: top
+2025-07-10 15:20:40,385 INFO  - Property Name: objectclass, Property Value: person
+2025-07-10 15:20:40,385 INFO  - Property Name: objectclass, Property Value: organizationalPerson
+2025-07-10 15:20:40,385 INFO  - Property Name: objectclass, Property Value: user
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.com
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=65b224f686bf448b856feab018c6d215-Chenghao Zh
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: X500:/o=MPS/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=6227c5c7b0fa4aa0815985d17f89496a-Chenghao Zhang
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mps-ic.com
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@monolithicpower.com
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.cn
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:20:40,385 INFO  - Property Name: proxyaddresses, Property Value: SMTP:Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:20:40,385 INFO  - Property Name: samaccounttype, Property Value: 805306368
+2025-07-10 15:20:40,385 INFO  - Property Name: telephonenumber, Property Value: +86-0571-89818588;x8755
+2025-07-10 15:20:40,385 INFO  - Property Name: countrycode, Property Value: 156
+2025-07-10 15:20:40,385 INFO  - Property Name: useraccountcontrol, Property Value: 514
+2025-07-10 15:20:40,385 INFO  - Property Name: pwdlastset, Property Value: 133965253615726665
+2025-07-10 15:20:40,385 INFO  - Property Name: co, Property Value: 中国
+2025-07-10 15:20:40,385 INFO  - Property Name: name, Property Value: Chenghao Zhang
+2025-07-10 15:20:40,385 INFO  - Property Name: lockouttime, Property Value: 0
+2025-07-10 15:20:40,385 INFO  - Property Name: whenchanged, Property Value: 7/10/2025 6:53:37
+2025-07-10 15:20:40,385 INFO  - Property Name: protocolsettings, Property Value: MAPI§1§§§§§§§§§
+2025-07-10 15:20:40,385 INFO  - Property Name: protocolsettings, Property Value: IMAP4§0§§§§§§§§§§§§
+2025-07-10 15:20:40,385 INFO  - Property Name: protocolsettings, Property Value: POP3§0§§§§§§§§§§§§
+2025-07-10 15:20:40,385 INFO  - Property Name: protocolsettings, Property Value: OWA§0
+2025-07-10 15:20:40,385 INFO  - Property Name: l, Property Value: Hangzhou
+2025-07-10 15:20:40,385 INFO  - Property Name: badpwdcount, Property Value: 0
+2025-07-10 15:20:40,385 INFO  - Property Name: department, Property Value: 09-200 AE
+2025-07-10 15:20:40,385 INFO  - Property Name: displayname, Property Value: Chenghao Zhang
+2025-07-10 15:20:40,385 INFO  - Property Name: msds-keycredentiallink, Property Value: B:854:00020000200001A9C0C9B8929B936E2D6A804276DE5E1D206599B1CA21A4E79C2484F3547EA30F200002BA37C751C682FE2E65D6A7B6CBDF99E0DC519D028218FE099E921F4ECEA5743B1B0103525341310008000003000000000100000000000000000000010001C68740E14A372F90F92E1E949FD72E3DE73510B3BF2FEE55495B98743990C716FB46C2A00B48A0F3B3229C6B4FB8FC5DE465C8CA762D6D7CCDEE1461B3E9BFC8D44467A9B88957D7DB41922702C262668D50747DF65628AF760A133C8EED8EB955F2FA7ACC7D6679680C33CB0FEC66A57F128FEF8270FD0D283C91F46819AE14F3E0154C6B8F49E656DA862B7C8E8EE1C9DA359654CB6A7AE7996DD96B6628381CF33413A23B989D020563528AB1BF23BE37AE847FB75557C66448CE7FD6EDD29BF427F35CAA0E385B9694E8D17EB442ECA486ACC71BF4A89D6E3BB66C729E78BF535E264A57C51B0C994ABB024F8E558792F33F06D28FBC2EF8CE57085BC64F0100040101000501100006B300DA21A84A1A429302B18A5B5843A40F000701000000000200000000000000000008000800000000000000000800094AA953ACAD29DA48:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:20:40,385 INFO  - Property Name: msds-keycredentiallink, Property Value: B:790:00020000200001211CA112864014BADE9CC20214113BD954710B4F3036BC1867529F647154F76A2000024D37BF71C1CC5263BD2964B2BF756E20FBADE677A554FAF8AAB502359E54EB731B0103525341310008000003000000000100000000000000000000010001A6B0840BC6D33A02E307A0C4515C63A7197C1D61D5859E6BA87C3D533220FC76EDED2101C66C3E9436E0CEBE0AB8D57C2A30B2A6FD01C42E5960C511AEB89C2D67EA3902247021780B41BAB615A3F71E5F7EA4D2AB1391A077DB9EF4F173967E9D3ED5B3A5356EF051FF792651F4A606DEE1937485F0D077A7336AF1869E03FD43B9ED684670441E5EAC82B861C1CFE5467B33A4C0E1BC01E70E09AFB557C6D384EC381D5ED1F253B4A6DF102672BEEA9F8145F891ABACAD3ABFE5DD888E55746D498476D24B79035B23B53EFB30251078120EAA95B55D689963B9B77E0B30F70C33DD080212E26751E682D7998F619F82F67C7E97BA905BD82395279EC98567010004010100050002000701000800082DFD5C2817C2DA010800092DFD5C2817C2DA01:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:20:40,385 INFO  - Property Name: adspath, Property Value: LDAP://CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:20:40,385 INFO  - Property Name: c, Property Value: CN
+2025-07-10 15:20:40,385 INFO  - Property Name: textencodedoraddress, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:20:40,385 INFO  - Property Name: msexcharchivequota, Property Value: 104857600
+2025-07-10 15:20:40,385 INFO  - Property Name: msexchversion, Property Value: 88218628259840
+2025-07-10 15:20:40,385 INFO  - Property Name: mail, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:20:40,385 INFO  - Property Name: title, Property Value: Intermediate AE
+2025-07-10 15:20:40,385 INFO  - Property Name: thumbnailphoto, Property Value: System.Byte[]
+2025-07-10 15:20:40,385 INFO  - Property Name: primarygroupid, Property Value: 513
+2025-07-10 15:20:40,385 INFO  - Property Name: usncreated, Property Value: 441774199
+2025-07-10 15:20:40,385 INFO  - Property Name: codepage, Property Value: 0
+2025-07-10 15:20:40,385 INFO  - Property Name: sn, Property Value: Zhang
+2025-07-10 15:20:40,387 INFO  - Property Name: Enabled, Property Value: False
+2025-07-10 15:26:18,268 INFO  - get user id:chezhang domain information
+2025-07-10 15:26:22,171 INFO  - Raw userAccountControl: 514 (binary: 1000000010)
+2025-07-10 15:26:31,002 INFO  - Property Name: msexchremoterecipienttype, Property Value: 4
+2025-07-10 15:26:43,076 INFO  - Property Name: logoncount, Property Value: 7816
+2025-07-10 15:26:47,266 INFO  - Property Name: msexcharchivewarnquota, Property Value: 94371840
+2025-07-10 15:27:00,805 INFO  - Property Name: objectguid, Property Value: System.Byte[]
+2025-07-10 15:27:00,805 INFO  - Property Name: cn, Property Value: Chenghao Zhang
+2025-07-10 15:27:00,805 INFO  - Property Name: accountexpires, Property Value: 133936992000000000
+2025-07-10 15:27:00,805 INFO  - Property Name: msexchuseraccountcontrol, Property Value: 0
+2025-07-10 15:27:00,805 INFO  - Property Name: usnchanged, Property Value: 1930116352
+2025-07-10 15:27:00,805 INFO  - Property Name: badpasswordtime, Property Value: 133920964440491459
+2025-07-10 15:27:00,805 INFO  - Property Name: mobile, Property Value: +86-18867152279
+2025-07-10 15:27:00,805 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:27:00,805 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:27:00,806 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:27:00,806 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchumdtmfmap, Property Value: reversedPhone:9722517688168+
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchumdtmfmap, Property Value: emailAddress:2436442694264
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchumdtmfmap, Property Value: lastNameFirstName:9426424364426
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchumdtmfmap, Property Value: firstNameLastName:2436442694264
+2025-07-10 15:27:00,806 INFO  - Property Name: dscorepropagationdata, Property Value: 7/10/2025 6:53:35
+2025-07-10 15:27:00,806 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:43
+2025-07-10 15:27:00,806 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:30
+2025-07-10 15:27:00,806 INFO  - Property Name: dscorepropagationdata, Property Value: 2/13/2025 8:24:39
+2025-07-10 15:27:00,806 INFO  - Property Name: dscorepropagationdata, Property Value: 1/1/1601 0:04:17
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchrecipienttypedetails, Property Value: 2147483648
+2025-07-10 15:27:00,806 INFO  - Property Name: streetaddress, Property Value: Floor6/8, Building A2, Xixi Center, No.588 West Wenyi Road, Hangzhou, Zhejiang, China
+2025-07-10 15:27:00,806 INFO  - Property Name: lastlogon, Property Value: 133936029891959197
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchpoliciesincluded, Property Value: c69e1a54-5598-44a1-93d2-0a1ed33d243a
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchpoliciesincluded, Property Value: {26491cfc-9e50-4857-861b-0cb8df22b5d7}
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchrecipientdisplaytype, Property Value: -1073741818
+2025-07-10 15:27:00,806 INFO  - Property Name: company, Property Value: MPSHZ
+2025-07-10 15:27:00,806 INFO  - Property Name: postalcode, Property Value: 310013
+2025-07-10 15:27:00,806 INFO  - Property Name: targetaddress, Property Value: SMTP:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:27:00,806 INFO  - Property Name: userprincipalname, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:27:00,806 INFO  - Property Name: instancetype, Property Value: 4
+2025-07-10 15:27:00,806 INFO  - Property Name: st, Property Value: Zhejiang
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchwhenmailboxcreated, Property Value: 4/22/2022 3:35:16
+2025-07-10 15:27:00,806 INFO  - Property Name: physicaldeliveryofficename, Property Value: APAC-China-Hangzhou
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchtextmessagingstate, Property Value: 302120705
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchtextmessagingstate, Property Value: 16842751
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchdumpsterwarningquota, Property Value: 20971520
+2025-07-10 15:27:00,806 INFO  - Property Name: showinaddressbook, Property Value: CN=MPS Global Address Book,CN=All Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:27:00,806 INFO  - Property Name: showinaddressbook, Property Value: CN=MPSCD Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:27:00,806 INFO  - Property Name: showinaddressbook, Property Value: CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:27:00,806 INFO  - Property Name: givenname, Property Value: Chenghao
+2025-07-10 15:27:00,806 INFO  - Property Name: ms-ds-consistencyguid, Property Value: System.Byte[]
+2025-07-10 15:27:00,806 INFO  - Property Name: objectsid, Property Value: System.Byte[]
+2025-07-10 15:27:00,806 INFO  - Property Name: samaccountname, Property Value: chezhang
+2025-07-10 15:27:00,806 INFO  - Property Name: employeeid, Property Value: MPSHZ0383
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchhidefromaddresslists, Property Value: True
+2025-07-10 15:27:00,806 INFO  - Property Name: distinguishedname, Property Value: CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:27:00,806 INFO  - Property Name: memberof, Property Value: CN=CN-DisabledAccount-Logon-Introspection,OU=Security_Only,OU=User Groups,OU=Groups,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchelcmailboxflags, Property Value: 2
+2025-07-10 15:27:00,806 INFO  - Property Name: objectcategory, Property Value: CN=Person,CN=Schema,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchomaadminwirelessenable, Property Value: 12
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchmailboxguid, Property Value: System.Byte[]
+2025-07-10 15:27:00,806 INFO  - Property Name: legacyexchangedn, Property Value: /o=MPS/ou=External (FYDIBOHF25SPDLT)/cn=Recipients/cn=ae796e5277dc4dbfa9b51ab6d06ef47e
+2025-07-10 15:27:00,806 INFO  - Property Name: mailnickname, Property Value: Chenghao.Zhang
+2025-07-10 15:27:00,806 INFO  - Property Name: lastlogoff, Property Value: 0
+2025-07-10 15:27:00,806 INFO  - Property Name: description, Property Value: MPS Hangzhou Intermediate AE
+2025-07-10 15:27:00,806 INFO  - Property Name: whencreated, Property Value: 4/22/2022 3:34:59
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchdumpsterquota, Property Value: 31457280
+2025-07-10 15:27:00,806 INFO  - Property Name: lastlogontimestamp, Property Value: 133935657716327393
+2025-07-10 15:27:00,806 INFO  - Property Name: objectclass, Property Value: top
+2025-07-10 15:27:00,806 INFO  - Property Name: objectclass, Property Value: person
+2025-07-10 15:27:00,806 INFO  - Property Name: objectclass, Property Value: organizationalPerson
+2025-07-10 15:27:00,806 INFO  - Property Name: objectclass, Property Value: user
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.com
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=65b224f686bf448b856feab018c6d215-Chenghao Zh
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: X500:/o=MPS/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=6227c5c7b0fa4aa0815985d17f89496a-Chenghao Zhang
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mps-ic.com
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@monolithicpower.com
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.cn
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:27:00,806 INFO  - Property Name: proxyaddresses, Property Value: SMTP:Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:27:00,806 INFO  - Property Name: samaccounttype, Property Value: 805306368
+2025-07-10 15:27:00,806 INFO  - Property Name: telephonenumber, Property Value: +86-0571-89818588;x8755
+2025-07-10 15:27:00,806 INFO  - Property Name: countrycode, Property Value: 156
+2025-07-10 15:27:00,806 INFO  - Property Name: useraccountcontrol, Property Value: 514
+2025-07-10 15:27:00,806 INFO  - Property Name: pwdlastset, Property Value: 133965253615726665
+2025-07-10 15:27:00,806 INFO  - Property Name: co, Property Value: 中国
+2025-07-10 15:27:00,806 INFO  - Property Name: name, Property Value: Chenghao Zhang
+2025-07-10 15:27:00,806 INFO  - Property Name: lockouttime, Property Value: 0
+2025-07-10 15:27:00,806 INFO  - Property Name: whenchanged, Property Value: 7/10/2025 6:53:35
+2025-07-10 15:27:00,806 INFO  - Property Name: protocolsettings, Property Value: MAPI§1§§§§§§§§§
+2025-07-10 15:27:00,806 INFO  - Property Name: protocolsettings, Property Value: IMAP4§0§§§§§§§§§§§§
+2025-07-10 15:27:00,806 INFO  - Property Name: protocolsettings, Property Value: POP3§0§§§§§§§§§§§§
+2025-07-10 15:27:00,806 INFO  - Property Name: protocolsettings, Property Value: OWA§0
+2025-07-10 15:27:00,806 INFO  - Property Name: l, Property Value: Hangzhou
+2025-07-10 15:27:00,806 INFO  - Property Name: badpwdcount, Property Value: 0
+2025-07-10 15:27:00,806 INFO  - Property Name: department, Property Value: 09-200 AE
+2025-07-10 15:27:00,806 INFO  - Property Name: displayname, Property Value: Chenghao Zhang
+2025-07-10 15:27:00,806 INFO  - Property Name: msds-keycredentiallink, Property Value: B:854:00020000200001A9C0C9B8929B936E2D6A804276DE5E1D206599B1CA21A4E79C2484F3547EA30F200002BA37C751C682FE2E65D6A7B6CBDF99E0DC519D028218FE099E921F4ECEA5743B1B0103525341310008000003000000000100000000000000000000010001C68740E14A372F90F92E1E949FD72E3DE73510B3BF2FEE55495B98743990C716FB46C2A00B48A0F3B3229C6B4FB8FC5DE465C8CA762D6D7CCDEE1461B3E9BFC8D44467A9B88957D7DB41922702C262668D50747DF65628AF760A133C8EED8EB955F2FA7ACC7D6679680C33CB0FEC66A57F128FEF8270FD0D283C91F46819AE14F3E0154C6B8F49E656DA862B7C8E8EE1C9DA359654CB6A7AE7996DD96B6628381CF33413A23B989D020563528AB1BF23BE37AE847FB75557C66448CE7FD6EDD29BF427F35CAA0E385B9694E8D17EB442ECA486ACC71BF4A89D6E3BB66C729E78BF535E264A57C51B0C994ABB024F8E558792F33F06D28FBC2EF8CE57085BC64F0100040101000501100006B300DA21A84A1A429302B18A5B5843A40F000701000000000200000000000000000008000800000000000000000800094AA953ACAD29DA48:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:27:00,806 INFO  - Property Name: msds-keycredentiallink, Property Value: B:790:00020000200001211CA112864014BADE9CC20214113BD954710B4F3036BC1867529F647154F76A2000024D37BF71C1CC5263BD2964B2BF756E20FBADE677A554FAF8AAB502359E54EB731B0103525341310008000003000000000100000000000000000000010001A6B0840BC6D33A02E307A0C4515C63A7197C1D61D5859E6BA87C3D533220FC76EDED2101C66C3E9436E0CEBE0AB8D57C2A30B2A6FD01C42E5960C511AEB89C2D67EA3902247021780B41BAB615A3F71E5F7EA4D2AB1391A077DB9EF4F173967E9D3ED5B3A5356EF051FF792651F4A606DEE1937485F0D077A7336AF1869E03FD43B9ED684670441E5EAC82B861C1CFE5467B33A4C0E1BC01E70E09AFB557C6D384EC381D5ED1F253B4A6DF102672BEEA9F8145F891ABACAD3ABFE5DD888E55746D498476D24B79035B23B53EFB30251078120EAA95B55D689963B9B77E0B30F70C33DD080212E26751E682D7998F619F82F67C7E97BA905BD82395279EC98567010004010100050002000701000800082DFD5C2817C2DA010800092DFD5C2817C2DA01:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:27:00,806 INFO  - Property Name: adspath, Property Value: LDAP://CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:27:00,806 INFO  - Property Name: c, Property Value: CN
+2025-07-10 15:27:00,806 INFO  - Property Name: textencodedoraddress, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:27:00,806 INFO  - Property Name: msexcharchivequota, Property Value: 104857600
+2025-07-10 15:27:00,806 INFO  - Property Name: msexchversion, Property Value: 88218628259840
+2025-07-10 15:27:00,806 INFO  - Property Name: mail, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:27:00,806 INFO  - Property Name: title, Property Value: Intermediate AE
+2025-07-10 15:27:00,806 INFO  - Property Name: thumbnailphoto, Property Value: System.Byte[]
+2025-07-10 15:27:00,806 INFO  - Property Name: primarygroupid, Property Value: 513
+2025-07-10 15:27:00,806 INFO  - Property Name: usncreated, Property Value: 1216485544
+2025-07-10 15:27:00,806 INFO  - Property Name: codepage, Property Value: 0
+2025-07-10 15:27:00,806 INFO  - Property Name: sn, Property Value: Zhang
+2025-07-10 15:27:00,806 INFO  - Property Name: Enabled, Property Value: False
+2025-07-10 15:27:32,116 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:27:51,801 INFO  - Raw userAccountControl: 512 (binary: 1000000000)
+2025-07-10 15:28:27,588 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:28:39,613 INFO  - Raw userAccountControl: 512 (binary: 1000000000)
+2025-07-10 15:32:48,649 INFO  - check user id:wjxie is disabled or not
+2025-07-10 15:33:15,844 INFO  - Raw userAccountControl: 514 (binary: 1000000010)
+2025-07-10 15:34:10,850 INFO  - get user id:wjxie domain information
+2025-07-10 15:34:21,047 INFO  - Raw userAccountControl: 514 (binary: 1000000010)
+2025-07-10 15:37:00,570 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:37:30,029 INFO  - Raw userAccountControl: 512 (binary: 1000000000)
+2025-07-10 15:38:00,698 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:38:06,702 INFO  - Raw userAccountControl: 512 (binary: 1000000000)
+2025-07-10 15:47:55,962 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:52:31,981 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:54:34,590 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:55:11,288 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:55:36,749 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:57:02,550 INFO  - get user id:chezhang domain information
+2025-07-10 15:57:02,816 INFO  - Property Name: msexchremoterecipienttype, Property Value: 4
+2025-07-10 15:57:02,816 INFO  - Property Name: logoncount, Property Value: 7816
+2025-07-10 15:57:02,816 INFO  - Property Name: msexcharchivewarnquota, Property Value: 94371840
+2025-07-10 15:57:02,816 INFO  - Property Name: objectguid, Property Value: System.Byte[]
+2025-07-10 15:57:02,816 INFO  - Property Name: cn, Property Value: Chenghao Zhang
+2025-07-10 15:57:02,816 INFO  - Property Name: accountexpires, Property Value: 133936992000000000
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchuseraccountcontrol, Property Value: 0
+2025-07-10 15:57:02,817 INFO  - Property Name: usnchanged, Property Value: 1930116352
+2025-07-10 15:57:02,817 INFO  - Property Name: badpasswordtime, Property Value: 133920964440491459
+2025-07-10 15:57:02,817 INFO  - Property Name: mobile, Property Value: +86-18867152279
+2025-07-10 15:57:02,817 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:57:02,817 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:57:02,817 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:57:02,817 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchumdtmfmap, Property Value: reversedPhone:9722517688168+
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchumdtmfmap, Property Value: emailAddress:2436442694264
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchumdtmfmap, Property Value: lastNameFirstName:9426424364426
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchumdtmfmap, Property Value: firstNameLastName:2436442694264
+2025-07-10 15:57:02,817 INFO  - Property Name: dscorepropagationdata, Property Value: 7/10/2025 6:53:35
+2025-07-10 15:57:02,817 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:43
+2025-07-10 15:57:02,817 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:30
+2025-07-10 15:57:02,817 INFO  - Property Name: dscorepropagationdata, Property Value: 2/13/2025 8:24:39
+2025-07-10 15:57:02,817 INFO  - Property Name: dscorepropagationdata, Property Value: 1/1/1601 0:04:17
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchrecipienttypedetails, Property Value: 2147483648
+2025-07-10 15:57:02,817 INFO  - Property Name: streetaddress, Property Value: Floor6/8, Building A2, Xixi Center, No.588 West Wenyi Road, Hangzhou, Zhejiang, China
+2025-07-10 15:57:02,817 INFO  - Property Name: lastlogon, Property Value: 133936029891959197
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchpoliciesincluded, Property Value: c69e1a54-5598-44a1-93d2-0a1ed33d243a
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchpoliciesincluded, Property Value: {26491cfc-9e50-4857-861b-0cb8df22b5d7}
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchrecipientdisplaytype, Property Value: -1073741818
+2025-07-10 15:57:02,817 INFO  - Property Name: company, Property Value: MPSHZ
+2025-07-10 15:57:02,817 INFO  - Property Name: postalcode, Property Value: 310013
+2025-07-10 15:57:02,817 INFO  - Property Name: targetaddress, Property Value: SMTP:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:57:02,817 INFO  - Property Name: userprincipalname, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:57:02,817 INFO  - Property Name: instancetype, Property Value: 4
+2025-07-10 15:57:02,817 INFO  - Property Name: st, Property Value: Zhejiang
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchwhenmailboxcreated, Property Value: 4/22/2022 3:35:16
+2025-07-10 15:57:02,817 INFO  - Property Name: physicaldeliveryofficename, Property Value: APAC-China-Hangzhou
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchtextmessagingstate, Property Value: 302120705
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchtextmessagingstate, Property Value: 16842751
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchdumpsterwarningquota, Property Value: 20971520
+2025-07-10 15:57:02,817 INFO  - Property Name: showinaddressbook, Property Value: CN=MPS Global Address Book,CN=All Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:57:02,817 INFO  - Property Name: showinaddressbook, Property Value: CN=MPSCD Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:57:02,817 INFO  - Property Name: showinaddressbook, Property Value: CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:57:02,817 INFO  - Property Name: givenname, Property Value: Chenghao
+2025-07-10 15:57:02,817 INFO  - Property Name: ms-ds-consistencyguid, Property Value: System.Byte[]
+2025-07-10 15:57:02,817 INFO  - Property Name: objectsid, Property Value: System.Byte[]
+2025-07-10 15:57:02,817 INFO  - Property Name: samaccountname, Property Value: chezhang
+2025-07-10 15:57:02,817 INFO  - Property Name: employeeid, Property Value: MPSHZ0383
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchhidefromaddresslists, Property Value: True
+2025-07-10 15:57:02,817 INFO  - Property Name: distinguishedname, Property Value: CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:57:02,817 INFO  - Property Name: memberof, Property Value: CN=CN-DisabledAccount-Logon-Introspection,OU=Security_Only,OU=User Groups,OU=Groups,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchelcmailboxflags, Property Value: 2
+2025-07-10 15:57:02,817 INFO  - Property Name: objectcategory, Property Value: CN=Person,CN=Schema,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchomaadminwirelessenable, Property Value: 12
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchmailboxguid, Property Value: System.Byte[]
+2025-07-10 15:57:02,817 INFO  - Property Name: legacyexchangedn, Property Value: /o=MPS/ou=External (FYDIBOHF25SPDLT)/cn=Recipients/cn=ae796e5277dc4dbfa9b51ab6d06ef47e
+2025-07-10 15:57:02,817 INFO  - Property Name: mailnickname, Property Value: Chenghao.Zhang
+2025-07-10 15:57:02,817 INFO  - Property Name: lastlogoff, Property Value: 0
+2025-07-10 15:57:02,817 INFO  - Property Name: description, Property Value: MPS Hangzhou Intermediate AE
+2025-07-10 15:57:02,817 INFO  - Property Name: whencreated, Property Value: 4/22/2022 3:34:59
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchdumpsterquota, Property Value: 31457280
+2025-07-10 15:57:02,817 INFO  - Property Name: lastlogontimestamp, Property Value: 133935657716327393
+2025-07-10 15:57:02,817 INFO  - Property Name: objectclass, Property Value: top
+2025-07-10 15:57:02,817 INFO  - Property Name: objectclass, Property Value: person
+2025-07-10 15:57:02,817 INFO  - Property Name: objectclass, Property Value: organizationalPerson
+2025-07-10 15:57:02,817 INFO  - Property Name: objectclass, Property Value: user
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.com
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=65b224f686bf448b856feab018c6d215-Chenghao Zh
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: X500:/o=MPS/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=6227c5c7b0fa4aa0815985d17f89496a-Chenghao Zhang
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mps-ic.com
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@monolithicpower.com
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.cn
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:57:02,817 INFO  - Property Name: proxyaddresses, Property Value: SMTP:Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:57:02,817 INFO  - Property Name: samaccounttype, Property Value: 805306368
+2025-07-10 15:57:02,817 INFO  - Property Name: telephonenumber, Property Value: +86-0571-89818588;x8755
+2025-07-10 15:57:02,817 INFO  - Property Name: countrycode, Property Value: 156
+2025-07-10 15:57:02,817 INFO  - Property Name: useraccountcontrol, Property Value: 514
+2025-07-10 15:57:02,817 INFO  - Property Name: pwdlastset, Property Value: 133965253615726665
+2025-07-10 15:57:02,817 INFO  - Property Name: co, Property Value: 中国
+2025-07-10 15:57:02,817 INFO  - Property Name: name, Property Value: Chenghao Zhang
+2025-07-10 15:57:02,817 INFO  - Property Name: lockouttime, Property Value: 0
+2025-07-10 15:57:02,817 INFO  - Property Name: whenchanged, Property Value: 7/10/2025 6:53:35
+2025-07-10 15:57:02,817 INFO  - Property Name: protocolsettings, Property Value: MAPI§1§§§§§§§§§
+2025-07-10 15:57:02,817 INFO  - Property Name: protocolsettings, Property Value: IMAP4§0§§§§§§§§§§§§
+2025-07-10 15:57:02,817 INFO  - Property Name: protocolsettings, Property Value: POP3§0§§§§§§§§§§§§
+2025-07-10 15:57:02,817 INFO  - Property Name: protocolsettings, Property Value: OWA§0
+2025-07-10 15:57:02,817 INFO  - Property Name: l, Property Value: Hangzhou
+2025-07-10 15:57:02,817 INFO  - Property Name: badpwdcount, Property Value: 0
+2025-07-10 15:57:02,817 INFO  - Property Name: department, Property Value: 09-200 AE
+2025-07-10 15:57:02,817 INFO  - Property Name: displayname, Property Value: Chenghao Zhang
+2025-07-10 15:57:02,817 INFO  - Property Name: msds-keycredentiallink, Property Value: B:854:00020000200001A9C0C9B8929B936E2D6A804276DE5E1D206599B1CA21A4E79C2484F3547EA30F200002BA37C751C682FE2E65D6A7B6CBDF99E0DC519D028218FE099E921F4ECEA5743B1B0103525341310008000003000000000100000000000000000000010001C68740E14A372F90F92E1E949FD72E3DE73510B3BF2FEE55495B98743990C716FB46C2A00B48A0F3B3229C6B4FB8FC5DE465C8CA762D6D7CCDEE1461B3E9BFC8D44467A9B88957D7DB41922702C262668D50747DF65628AF760A133C8EED8EB955F2FA7ACC7D6679680C33CB0FEC66A57F128FEF8270FD0D283C91F46819AE14F3E0154C6B8F49E656DA862B7C8E8EE1C9DA359654CB6A7AE7996DD96B6628381CF33413A23B989D020563528AB1BF23BE37AE847FB75557C66448CE7FD6EDD29BF427F35CAA0E385B9694E8D17EB442ECA486ACC71BF4A89D6E3BB66C729E78BF535E264A57C51B0C994ABB024F8E558792F33F06D28FBC2EF8CE57085BC64F0100040101000501100006B300DA21A84A1A429302B18A5B5843A40F000701000000000200000000000000000008000800000000000000000800094AA953ACAD29DA48:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:57:02,817 INFO  - Property Name: msds-keycredentiallink, Property Value: B:790:00020000200001211CA112864014BADE9CC20214113BD954710B4F3036BC1867529F647154F76A2000024D37BF71C1CC5263BD2964B2BF756E20FBADE677A554FAF8AAB502359E54EB731B0103525341310008000003000000000100000000000000000000010001A6B0840BC6D33A02E307A0C4515C63A7197C1D61D5859E6BA87C3D533220FC76EDED2101C66C3E9436E0CEBE0AB8D57C2A30B2A6FD01C42E5960C511AEB89C2D67EA3902247021780B41BAB615A3F71E5F7EA4D2AB1391A077DB9EF4F173967E9D3ED5B3A5356EF051FF792651F4A606DEE1937485F0D077A7336AF1869E03FD43B9ED684670441E5EAC82B861C1CFE5467B33A4C0E1BC01E70E09AFB557C6D384EC381D5ED1F253B4A6DF102672BEEA9F8145F891ABACAD3ABFE5DD888E55746D498476D24B79035B23B53EFB30251078120EAA95B55D689963B9B77E0B30F70C33DD080212E26751E682D7998F619F82F67C7E97BA905BD82395279EC98567010004010100050002000701000800082DFD5C2817C2DA010800092DFD5C2817C2DA01:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:57:02,817 INFO  - Property Name: adspath, Property Value: LDAP://CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 15:57:02,817 INFO  - Property Name: c, Property Value: CN
+2025-07-10 15:57:02,817 INFO  - Property Name: textencodedoraddress, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 15:57:02,817 INFO  - Property Name: msexcharchivequota, Property Value: 104857600
+2025-07-10 15:57:02,817 INFO  - Property Name: msexchversion, Property Value: 88218628259840
+2025-07-10 15:57:02,817 INFO  - Property Name: mail, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 15:57:02,817 INFO  - Property Name: title, Property Value: Intermediate AE
+2025-07-10 15:57:02,817 INFO  - Property Name: thumbnailphoto, Property Value: System.Byte[]
+2025-07-10 15:57:02,817 INFO  - Property Name: primarygroupid, Property Value: 513
+2025-07-10 15:57:02,817 INFO  - Property Name: usncreated, Property Value: 1216485544
+2025-07-10 15:57:02,817 INFO  - Property Name: codepage, Property Value: 0
+2025-07-10 15:57:02,817 INFO  - Property Name: sn, Property Value: Zhang
+2025-07-10 15:57:02,817 INFO  - Property Name: Enabled, Property Value: False
+2025-07-10 15:57:15,810 INFO  - check user id:chewang is disabled or not
+2025-07-10 15:58:37,874 INFO  - check user id:chewang is disabled or not
+2025-07-10 16:00:14,609 INFO  - check user id:chewang is disabled or not
+2025-07-10 16:00:14,903 INFO  - DistinguishedName: CN=Chevin (Qinwei) Wang,OU=Product Test Engineer,OU=Users,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,114 INFO  - get user id:chezhang domain information
+2025-07-10 16:00:21,151 INFO  - DistinguishedName: CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchremoterecipienttype, Property Value: 4
+2025-07-10 16:00:21,151 INFO  - Property Name: logoncount, Property Value: 7816
+2025-07-10 16:00:21,151 INFO  - Property Name: msexcharchivewarnquota, Property Value: 94371840
+2025-07-10 16:00:21,151 INFO  - Property Name: objectguid, Property Value: System.Byte[]
+2025-07-10 16:00:21,151 INFO  - Property Name: cn, Property Value: Chenghao Zhang
+2025-07-10 16:00:21,151 INFO  - Property Name: accountexpires, Property Value: 133936992000000000
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchuseraccountcontrol, Property Value: 0
+2025-07-10 16:00:21,151 INFO  - Property Name: usnchanged, Property Value: 1930116352
+2025-07-10 16:00:21,151 INFO  - Property Name: badpasswordtime, Property Value: 133920964440491459
+2025-07-10 16:00:21,151 INFO  - Property Name: mobile, Property Value: +86-18867152279
+2025-07-10 16:00:21,151 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 16:00:21,151 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 16:00:21,151 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 16:00:21,151 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchumdtmfmap, Property Value: reversedPhone:9722517688168+
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchumdtmfmap, Property Value: emailAddress:2436442694264
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchumdtmfmap, Property Value: lastNameFirstName:9426424364426
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchumdtmfmap, Property Value: firstNameLastName:2436442694264
+2025-07-10 16:00:21,151 INFO  - Property Name: dscorepropagationdata, Property Value: 7/10/2025 6:53:35
+2025-07-10 16:00:21,151 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:43
+2025-07-10 16:00:21,151 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:30
+2025-07-10 16:00:21,151 INFO  - Property Name: dscorepropagationdata, Property Value: 2/13/2025 8:24:39
+2025-07-10 16:00:21,151 INFO  - Property Name: dscorepropagationdata, Property Value: 1/1/1601 0:04:17
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchrecipienttypedetails, Property Value: 2147483648
+2025-07-10 16:00:21,151 INFO  - Property Name: streetaddress, Property Value: Floor6/8, Building A2, Xixi Center, No.588 West Wenyi Road, Hangzhou, Zhejiang, China
+2025-07-10 16:00:21,151 INFO  - Property Name: lastlogon, Property Value: 133936029891959197
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchpoliciesincluded, Property Value: c69e1a54-5598-44a1-93d2-0a1ed33d243a
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchpoliciesincluded, Property Value: {26491cfc-9e50-4857-861b-0cb8df22b5d7}
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchrecipientdisplaytype, Property Value: -1073741818
+2025-07-10 16:00:21,151 INFO  - Property Name: company, Property Value: MPSHZ
+2025-07-10 16:00:21,151 INFO  - Property Name: postalcode, Property Value: 310013
+2025-07-10 16:00:21,151 INFO  - Property Name: targetaddress, Property Value: SMTP:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 16:00:21,151 INFO  - Property Name: userprincipalname, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 16:00:21,151 INFO  - Property Name: instancetype, Property Value: 4
+2025-07-10 16:00:21,151 INFO  - Property Name: st, Property Value: Zhejiang
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchwhenmailboxcreated, Property Value: 4/22/2022 3:35:16
+2025-07-10 16:00:21,151 INFO  - Property Name: physicaldeliveryofficename, Property Value: APAC-China-Hangzhou
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchtextmessagingstate, Property Value: 302120705
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchtextmessagingstate, Property Value: 16842751
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchdumpsterwarningquota, Property Value: 20971520
+2025-07-10 16:00:21,151 INFO  - Property Name: showinaddressbook, Property Value: CN=MPS Global Address Book,CN=All Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: showinaddressbook, Property Value: CN=MPSCD Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: showinaddressbook, Property Value: CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: givenname, Property Value: Chenghao
+2025-07-10 16:00:21,151 INFO  - Property Name: ms-ds-consistencyguid, Property Value: System.Byte[]
+2025-07-10 16:00:21,151 INFO  - Property Name: objectsid, Property Value: System.Byte[]
+2025-07-10 16:00:21,151 INFO  - Property Name: samaccountname, Property Value: chezhang
+2025-07-10 16:00:21,151 INFO  - Property Name: employeeid, Property Value: MPSHZ0383
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchhidefromaddresslists, Property Value: True
+2025-07-10 16:00:21,151 INFO  - Property Name: distinguishedname, Property Value: CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: memberof, Property Value: CN=CN-DisabledAccount-Logon-Introspection,OU=Security_Only,OU=User Groups,OU=Groups,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchelcmailboxflags, Property Value: 2
+2025-07-10 16:00:21,151 INFO  - Property Name: objectcategory, Property Value: CN=Person,CN=Schema,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchomaadminwirelessenable, Property Value: 12
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchmailboxguid, Property Value: System.Byte[]
+2025-07-10 16:00:21,151 INFO  - Property Name: legacyexchangedn, Property Value: /o=MPS/ou=External (FYDIBOHF25SPDLT)/cn=Recipients/cn=ae796e5277dc4dbfa9b51ab6d06ef47e
+2025-07-10 16:00:21,151 INFO  - Property Name: mailnickname, Property Value: Chenghao.Zhang
+2025-07-10 16:00:21,151 INFO  - Property Name: lastlogoff, Property Value: 0
+2025-07-10 16:00:21,151 INFO  - Property Name: description, Property Value: MPS Hangzhou Intermediate AE
+2025-07-10 16:00:21,151 INFO  - Property Name: whencreated, Property Value: 4/22/2022 3:34:59
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchdumpsterquota, Property Value: 31457280
+2025-07-10 16:00:21,151 INFO  - Property Name: lastlogontimestamp, Property Value: 133935657716327393
+2025-07-10 16:00:21,151 INFO  - Property Name: objectclass, Property Value: top
+2025-07-10 16:00:21,151 INFO  - Property Name: objectclass, Property Value: person
+2025-07-10 16:00:21,151 INFO  - Property Name: objectclass, Property Value: organizationalPerson
+2025-07-10 16:00:21,151 INFO  - Property Name: objectclass, Property Value: user
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.com
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=65b224f686bf448b856feab018c6d215-Chenghao Zh
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: X500:/o=MPS/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=6227c5c7b0fa4aa0815985d17f89496a-Chenghao Zhang
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mps-ic.com
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@monolithicpower.com
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.cn
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 16:00:21,151 INFO  - Property Name: proxyaddresses, Property Value: SMTP:Chenghao.Zhang@monolithicpower.com
+2025-07-10 16:00:21,151 INFO  - Property Name: samaccounttype, Property Value: 805306368
+2025-07-10 16:00:21,151 INFO  - Property Name: telephonenumber, Property Value: +86-0571-89818588;x8755
+2025-07-10 16:00:21,151 INFO  - Property Name: countrycode, Property Value: 156
+2025-07-10 16:00:21,151 INFO  - Property Name: useraccountcontrol, Property Value: 514
+2025-07-10 16:00:21,151 INFO  - Property Name: pwdlastset, Property Value: 133965253615726665
+2025-07-10 16:00:21,151 INFO  - Property Name: co, Property Value: 中国
+2025-07-10 16:00:21,151 INFO  - Property Name: name, Property Value: Chenghao Zhang
+2025-07-10 16:00:21,151 INFO  - Property Name: lockouttime, Property Value: 0
+2025-07-10 16:00:21,151 INFO  - Property Name: whenchanged, Property Value: 7/10/2025 6:53:35
+2025-07-10 16:00:21,151 INFO  - Property Name: protocolsettings, Property Value: MAPI§1§§§§§§§§§
+2025-07-10 16:00:21,151 INFO  - Property Name: protocolsettings, Property Value: IMAP4§0§§§§§§§§§§§§
+2025-07-10 16:00:21,151 INFO  - Property Name: protocolsettings, Property Value: POP3§0§§§§§§§§§§§§
+2025-07-10 16:00:21,151 INFO  - Property Name: protocolsettings, Property Value: OWA§0
+2025-07-10 16:00:21,151 INFO  - Property Name: l, Property Value: Hangzhou
+2025-07-10 16:00:21,151 INFO  - Property Name: badpwdcount, Property Value: 0
+2025-07-10 16:00:21,151 INFO  - Property Name: department, Property Value: 09-200 AE
+2025-07-10 16:00:21,151 INFO  - Property Name: displayname, Property Value: Chenghao Zhang
+2025-07-10 16:00:21,151 INFO  - Property Name: msds-keycredentiallink, Property Value: B:854:00020000200001A9C0C9B8929B936E2D6A804276DE5E1D206599B1CA21A4E79C2484F3547EA30F200002BA37C751C682FE2E65D6A7B6CBDF99E0DC519D028218FE099E921F4ECEA5743B1B0103525341310008000003000000000100000000000000000000010001C68740E14A372F90F92E1E949FD72E3DE73510B3BF2FEE55495B98743990C716FB46C2A00B48A0F3B3229C6B4FB8FC5DE465C8CA762D6D7CCDEE1461B3E9BFC8D44467A9B88957D7DB41922702C262668D50747DF65628AF760A133C8EED8EB955F2FA7ACC7D6679680C33CB0FEC66A57F128FEF8270FD0D283C91F46819AE14F3E0154C6B8F49E656DA862B7C8E8EE1C9DA359654CB6A7AE7996DD96B6628381CF33413A23B989D020563528AB1BF23BE37AE847FB75557C66448CE7FD6EDD29BF427F35CAA0E385B9694E8D17EB442ECA486ACC71BF4A89D6E3BB66C729E78BF535E264A57C51B0C994ABB024F8E558792F33F06D28FBC2EF8CE57085BC64F0100040101000501100006B300DA21A84A1A429302B18A5B5843A40F000701000000000200000000000000000008000800000000000000000800094AA953ACAD29DA48:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: msds-keycredentiallink, Property Value: B:790:00020000200001211CA112864014BADE9CC20214113BD954710B4F3036BC1867529F647154F76A2000024D37BF71C1CC5263BD2964B2BF756E20FBADE677A554FAF8AAB502359E54EB731B0103525341310008000003000000000100000000000000000000010001A6B0840BC6D33A02E307A0C4515C63A7197C1D61D5859E6BA87C3D533220FC76EDED2101C66C3E9436E0CEBE0AB8D57C2A30B2A6FD01C42E5960C511AEB89C2D67EA3902247021780B41BAB615A3F71E5F7EA4D2AB1391A077DB9EF4F173967E9D3ED5B3A5356EF051FF792651F4A606DEE1937485F0D077A7336AF1869E03FD43B9ED684670441E5EAC82B861C1CFE5467B33A4C0E1BC01E70E09AFB557C6D384EC381D5ED1F253B4A6DF102672BEEA9F8145F891ABACAD3ABFE5DD888E55746D498476D24B79035B23B53EFB30251078120EAA95B55D689963B9B77E0B30F70C33DD080212E26751E682D7998F619F82F67C7E97BA905BD82395279EC98567010004010100050002000701000800082DFD5C2817C2DA010800092DFD5C2817C2DA01:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: adspath, Property Value: LDAP://CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:00:21,151 INFO  - Property Name: c, Property Value: CN
+2025-07-10 16:00:21,151 INFO  - Property Name: textencodedoraddress, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 16:00:21,151 INFO  - Property Name: msexcharchivequota, Property Value: 104857600
+2025-07-10 16:00:21,151 INFO  - Property Name: msexchversion, Property Value: 88218628259840
+2025-07-10 16:00:21,151 INFO  - Property Name: mail, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 16:00:21,151 INFO  - Property Name: title, Property Value: Intermediate AE
+2025-07-10 16:00:21,151 INFO  - Property Name: thumbnailphoto, Property Value: System.Byte[]
+2025-07-10 16:00:21,151 INFO  - Property Name: primarygroupid, Property Value: 513
+2025-07-10 16:00:21,151 INFO  - Property Name: usncreated, Property Value: 1216485544
+2025-07-10 16:00:21,151 INFO  - Property Name: codepage, Property Value: 0
+2025-07-10 16:00:21,151 INFO  - Property Name: sn, Property Value: Zhang
+2025-07-10 16:00:21,151 INFO  - Property Name: Enabled, Property Value: False
+2025-07-10 16:02:28,942 INFO  - check user id:chewang is disabled or not
+2025-07-10 16:02:29,236 INFO  - DistinguishedName: CN=Chevin (Qinwei) Wang,OU=Product Test Engineer,OU=Users,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:06:09,773 INFO  - check user id:chezhang is disabled or not
+2025-07-10 16:06:15,180 INFO  - get user id:chezhang domain information
+2025-07-10 16:06:15,218 INFO  - Property Name: msexchremoterecipienttype, Property Value: 4
+2025-07-10 16:06:15,219 INFO  - Property Name: logoncount, Property Value: 7816
+2025-07-10 16:06:15,219 INFO  - Property Name: msexcharchivewarnquota, Property Value: 94371840
+2025-07-10 16:06:15,219 INFO  - Property Name: objectguid, Property Value: System.Byte[]
+2025-07-10 16:06:15,219 INFO  - Property Name: cn, Property Value: Chenghao Zhang
+2025-07-10 16:06:15,219 INFO  - Property Name: accountexpires, Property Value: 133936992000000000
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchuseraccountcontrol, Property Value: 0
+2025-07-10 16:06:15,219 INFO  - Property Name: usnchanged, Property Value: 1930116352
+2025-07-10 16:06:15,219 INFO  - Property Name: badpasswordtime, Property Value: 133920964440491459
+2025-07-10 16:06:15,219 INFO  - Property Name: mobile, Property Value: +86-18867152279
+2025-07-10 16:06:15,219 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 16:06:15,219 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 16:06:15,219 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 16:06:15,219 INFO  - Property Name: usercertificate, Property Value: System.Byte[]
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchumdtmfmap, Property Value: reversedPhone:9722517688168+
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchumdtmfmap, Property Value: emailAddress:2436442694264
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchumdtmfmap, Property Value: lastNameFirstName:9426424364426
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchumdtmfmap, Property Value: firstNameLastName:2436442694264
+2025-07-10 16:06:15,219 INFO  - Property Name: dscorepropagationdata, Property Value: 7/10/2025 6:53:35
+2025-07-10 16:06:15,219 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:43
+2025-07-10 16:06:15,219 INFO  - Property Name: dscorepropagationdata, Property Value: 7/7/2025 6:33:30
+2025-07-10 16:06:15,219 INFO  - Property Name: dscorepropagationdata, Property Value: 2/13/2025 8:24:39
+2025-07-10 16:06:15,219 INFO  - Property Name: dscorepropagationdata, Property Value: 1/1/1601 0:04:17
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchrecipienttypedetails, Property Value: 2147483648
+2025-07-10 16:06:15,219 INFO  - Property Name: streetaddress, Property Value: Floor6/8, Building A2, Xixi Center, No.588 West Wenyi Road, Hangzhou, Zhejiang, China
+2025-07-10 16:06:15,219 INFO  - Property Name: lastlogon, Property Value: 133936029891959197
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchpoliciesincluded, Property Value: c69e1a54-5598-44a1-93d2-0a1ed33d243a
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchpoliciesincluded, Property Value: {26491cfc-9e50-4857-861b-0cb8df22b5d7}
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchrecipientdisplaytype, Property Value: -1073741818
+2025-07-10 16:06:15,219 INFO  - Property Name: company, Property Value: MPSHZ
+2025-07-10 16:06:15,219 INFO  - Property Name: postalcode, Property Value: 310013
+2025-07-10 16:06:15,219 INFO  - Property Name: targetaddress, Property Value: SMTP:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 16:06:15,219 INFO  - Property Name: userprincipalname, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 16:06:15,219 INFO  - Property Name: instancetype, Property Value: 4
+2025-07-10 16:06:15,219 INFO  - Property Name: st, Property Value: Zhejiang
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchwhenmailboxcreated, Property Value: 4/22/2022 3:35:16
+2025-07-10 16:06:15,219 INFO  - Property Name: physicaldeliveryofficename, Property Value: APAC-China-Hangzhou
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchtextmessagingstate, Property Value: 302120705
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchtextmessagingstate, Property Value: 16842751
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchdumpsterwarningquota, Property Value: 20971520
+2025-07-10 16:06:15,219 INFO  - Property Name: showinaddressbook, Property Value: CN=MPS Global Address Book,CN=All Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 16:06:15,219 INFO  - Property Name: showinaddressbook, Property Value: CN=MPSCD Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 16:06:15,219 INFO  - Property Name: showinaddressbook, Property Value: CN=Default Global Address List,CN=All Global Address Lists,CN=Address Lists Container,CN=MPS,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 16:06:15,219 INFO  - Property Name: givenname, Property Value: Chenghao
+2025-07-10 16:06:15,219 INFO  - Property Name: ms-ds-consistencyguid, Property Value: System.Byte[]
+2025-07-10 16:06:15,219 INFO  - Property Name: objectsid, Property Value: System.Byte[]
+2025-07-10 16:06:15,219 INFO  - Property Name: samaccountname, Property Value: chezhang
+2025-07-10 16:06:15,219 INFO  - Property Name: employeeid, Property Value: MPSHZ0383
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchhidefromaddresslists, Property Value: True
+2025-07-10 16:06:15,219 INFO  - Property Name: distinguishedname, Property Value: CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:06:15,219 INFO  - Property Name: memberof, Property Value: CN=CN-DisabledAccount-Logon-Introspection,OU=Security_Only,OU=User Groups,OU=Groups,OU=Chengdu,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchelcmailboxflags, Property Value: 2
+2025-07-10 16:06:15,219 INFO  - Property Name: objectcategory, Property Value: CN=Person,CN=Schema,CN=Configuration,DC=monolithicpower,DC=com
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchomaadminwirelessenable, Property Value: 12
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchmailboxguid, Property Value: System.Byte[]
+2025-07-10 16:06:15,219 INFO  - Property Name: legacyexchangedn, Property Value: /o=MPS/ou=External (FYDIBOHF25SPDLT)/cn=Recipients/cn=ae796e5277dc4dbfa9b51ab6d06ef47e
+2025-07-10 16:06:15,219 INFO  - Property Name: mailnickname, Property Value: Chenghao.Zhang
+2025-07-10 16:06:15,219 INFO  - Property Name: lastlogoff, Property Value: 0
+2025-07-10 16:06:15,219 INFO  - Property Name: description, Property Value: MPS Hangzhou Intermediate AE
+2025-07-10 16:06:15,219 INFO  - Property Name: whencreated, Property Value: 4/22/2022 3:34:59
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchdumpsterquota, Property Value: 31457280
+2025-07-10 16:06:15,219 INFO  - Property Name: lastlogontimestamp, Property Value: 133935657716327393
+2025-07-10 16:06:15,219 INFO  - Property Name: objectclass, Property Value: top
+2025-07-10 16:06:15,219 INFO  - Property Name: objectclass, Property Value: person
+2025-07-10 16:06:15,219 INFO  - Property Name: objectclass, Property Value: organizationalPerson
+2025-07-10 16:06:15,219 INFO  - Property Name: objectclass, Property Value: user
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.com
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: x500:/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=65b224f686bf448b856feab018c6d215-Chenghao Zh
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: X500:/o=MPS/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=6227c5c7b0fa4aa0815985d17f89496a-Chenghao Zhang
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mps-ic.com
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@monolithicpower.com
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: smtp:Chenghao.Zhang@mps-ic.cn
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: smtp:chezhang@mpsmail.mail.onmicrosoft.com
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 16:06:15,219 INFO  - Property Name: proxyaddresses, Property Value: SMTP:Chenghao.Zhang@monolithicpower.com
+2025-07-10 16:06:15,219 INFO  - Property Name: samaccounttype, Property Value: 805306368
+2025-07-10 16:06:15,219 INFO  - Property Name: telephonenumber, Property Value: +86-0571-89818588;x8755
+2025-07-10 16:06:15,219 INFO  - Property Name: countrycode, Property Value: 156
+2025-07-10 16:06:15,219 INFO  - Property Name: useraccountcontrol, Property Value: 514
+2025-07-10 16:06:15,219 INFO  - Property Name: pwdlastset, Property Value: 133965253615726665
+2025-07-10 16:06:15,219 INFO  - Property Name: co, Property Value: 中国
+2025-07-10 16:06:15,219 INFO  - Property Name: name, Property Value: Chenghao Zhang
+2025-07-10 16:06:15,219 INFO  - Property Name: lockouttime, Property Value: 0
+2025-07-10 16:06:15,219 INFO  - Property Name: whenchanged, Property Value: 7/10/2025 6:53:35
+2025-07-10 16:06:15,219 INFO  - Property Name: protocolsettings, Property Value: MAPI§1§§§§§§§§§
+2025-07-10 16:06:15,219 INFO  - Property Name: protocolsettings, Property Value: IMAP4§0§§§§§§§§§§§§
+2025-07-10 16:06:15,219 INFO  - Property Name: protocolsettings, Property Value: POP3§0§§§§§§§§§§§§
+2025-07-10 16:06:15,219 INFO  - Property Name: protocolsettings, Property Value: OWA§0
+2025-07-10 16:06:15,219 INFO  - Property Name: l, Property Value: Hangzhou
+2025-07-10 16:06:15,219 INFO  - Property Name: badpwdcount, Property Value: 0
+2025-07-10 16:06:15,219 INFO  - Property Name: department, Property Value: 09-200 AE
+2025-07-10 16:06:15,219 INFO  - Property Name: displayname, Property Value: Chenghao Zhang
+2025-07-10 16:06:15,219 INFO  - Property Name: msds-keycredentiallink, Property Value: B:854:00020000200001A9C0C9B8929B936E2D6A804276DE5E1D206599B1CA21A4E79C2484F3547EA30F200002BA37C751C682FE2E65D6A7B6CBDF99E0DC519D028218FE099E921F4ECEA5743B1B0103525341310008000003000000000100000000000000000000010001C68740E14A372F90F92E1E949FD72E3DE73510B3BF2FEE55495B98743990C716FB46C2A00B48A0F3B3229C6B4FB8FC5DE465C8CA762D6D7CCDEE1461B3E9BFC8D44467A9B88957D7DB41922702C262668D50747DF65628AF760A133C8EED8EB955F2FA7ACC7D6679680C33CB0FEC66A57F128FEF8270FD0D283C91F46819AE14F3E0154C6B8F49E656DA862B7C8E8EE1C9DA359654CB6A7AE7996DD96B6628381CF33413A23B989D020563528AB1BF23BE37AE847FB75557C66448CE7FD6EDD29BF427F35CAA0E385B9694E8D17EB442ECA486ACC71BF4A89D6E3BB66C729E78BF535E264A57C51B0C994ABB024F8E558792F33F06D28FBC2EF8CE57085BC64F0100040101000501100006B300DA21A84A1A429302B18A5B5843A40F000701000000000200000000000000000008000800000000000000000800094AA953ACAD29DA48:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:06:15,219 INFO  - Property Name: msds-keycredentiallink, Property Value: B:790:00020000200001211CA112864014BADE9CC20214113BD954710B4F3036BC1867529F647154F76A2000024D37BF71C1CC5263BD2964B2BF756E20FBADE677A554FAF8AAB502359E54EB731B0103525341310008000003000000000100000000000000000000010001A6B0840BC6D33A02E307A0C4515C63A7197C1D61D5859E6BA87C3D533220FC76EDED2101C66C3E9436E0CEBE0AB8D57C2A30B2A6FD01C42E5960C511AEB89C2D67EA3902247021780B41BAB615A3F71E5F7EA4D2AB1391A077DB9EF4F173967E9D3ED5B3A5356EF051FF792651F4A606DEE1937485F0D077A7336AF1869E03FD43B9ED684670441E5EAC82B861C1CFE5467B33A4C0E1BC01E70E09AFB557C6D384EC381D5ED1F253B4A6DF102672BEEA9F8145F891ABACAD3ABFE5DD888E55746D498476D24B79035B23B53EFB30251078120EAA95B55D689963B9B77E0B30F70C33DD080212E26751E682D7998F619F82F67C7E97BA905BD82395279EC98567010004010100050002000701000800082DFD5C2817C2DA010800092DFD5C2817C2DA01:CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:06:15,219 INFO  - Property Name: adspath, Property Value: LDAP://CN=Chenghao Zhang,OU=AE,OU=Users,OU=Hangzhou,OU=MPS,DC=monolithicpower,DC=com
+2025-07-10 16:06:15,219 INFO  - Property Name: c, Property Value: CN
+2025-07-10 16:06:15,219 INFO  - Property Name: textencodedoraddress, Property Value: X400:C=US;A= ;P=MPS;O=Exchange;S=Zhang;G=Chenghao;
+2025-07-10 16:06:15,219 INFO  - Property Name: msexcharchivequota, Property Value: 104857600
+2025-07-10 16:06:15,219 INFO  - Property Name: msexchversion, Property Value: 88218628259840
+2025-07-10 16:06:15,219 INFO  - Property Name: mail, Property Value: Chenghao.Zhang@monolithicpower.com
+2025-07-10 16:06:15,219 INFO  - Property Name: title, Property Value: Intermediate AE
+2025-07-10 16:06:15,219 INFO  - Property Name: thumbnailphoto, Property Value: System.Byte[]
+2025-07-10 16:06:15,219 INFO  - Property Name: primarygroupid, Property Value: 513
+2025-07-10 16:06:15,219 INFO  - Property Name: usncreated, Property Value: 1216485544
+2025-07-10 16:06:15,219 INFO  - Property Name: codepage, Property Value: 0
+2025-07-10 16:06:15,219 INFO  - Property Name: sn, Property Value: Zhang
+2025-07-10 16:06:15,219 INFO  - Property Name: Enabled, Property Value: False
+2025-07-10 16:06:28,223 INFO  - check user id:jogao is disabled or not
+2025-07-10 16:06:33,105 INFO  - check user id:wjxie is disabled or not

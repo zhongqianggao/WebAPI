@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="WorkingDayUSDataClass">
+  <DataContextMoniker Name="/WorkingDayUSDataClassDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5c02c8f9-5e58-4600-8f47-f808f147a3d2" absoluteBounds="2.625, 2.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/WorkingDayUSDataClassDataContext/WorkingDayUSModel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70afd8e8-7501-469a-be3a-72b3430beae3" absoluteBounds="2.64, 2.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

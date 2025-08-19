@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MPS_PM" Class="WorkingDayDataClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.SPM_WORKING_DAY_VEW" Member="WorkingDayModels">
+    <Type Name="WorkingDayModel">
+      <Column Name="ID" Member="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="WORKING_DAY" Member="WorkingDay" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="WEEK_NUMBER" Member="WeekNumber" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="YEAR" Member="Year" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="MONTH" Member="Month" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
